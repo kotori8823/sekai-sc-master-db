@@ -39641,6 +39641,25 @@
     "endAt": null
   },
   {
+    "id": 10740,
+    "shopId": 2,
+    "seq": 245997200,
+    "releaseConditionId": 1,
+    "resourceBoxId": 10740,
+    "costs": [
+      {
+        "cost": {
+          "resourceId": 13,
+          "resourceType": "material",
+          "resourceLevel": 0,
+          "quantity": 10
+        }
+      }
+    ],
+    "startAt": 1753945200000,
+    "endAt": null
+  },
+  {
     "id": 10741,
     "shopId": 2,
     "seq": 245910800,

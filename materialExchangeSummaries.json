@@ -13467,7 +13467,7 @@
         "resourceBoxId": 60116,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13490,7 +13490,7 @@
         "resourceBoxId": 60117,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13513,7 +13513,7 @@
         "resourceBoxId": 60118,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13536,7 +13536,7 @@
         "resourceBoxId": 60119,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13559,7 +13559,7 @@
         "resourceBoxId": 60120,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13582,7 +13582,7 @@
         "resourceBoxId": 60121,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13605,7 +13605,7 @@
         "resourceBoxId": 60122,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13628,7 +13628,7 @@
         "resourceBoxId": 60123,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13651,7 +13651,7 @@
         "resourceBoxId": 60124,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13674,7 +13674,7 @@
         "resourceBoxId": 60125,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13697,7 +13697,7 @@
         "resourceBoxId": 60126,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13720,7 +13720,7 @@
         "resourceBoxId": 60127,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13743,7 +13743,7 @@
         "resourceBoxId": 60128,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13766,7 +13766,7 @@
         "resourceBoxId": 60129,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13789,7 +13789,7 @@
         "resourceBoxId": 60130,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": null,
+        "startAt": 1728705600000,
         "endAt": null,
         "costs": [
           {
@@ -13881,7 +13881,7 @@
         "resourceBoxId": 60134,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1746763200000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -13904,7 +13904,7 @@
         "resourceBoxId": 60135,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1746763200000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -13927,7 +13927,7 @@
         "resourceBoxId": 60136,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1746763200000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -13950,7 +13950,7 @@
         "resourceBoxId": 60137,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1749528000000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -13973,7 +13973,7 @@
         "resourceBoxId": 60138,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1749528000000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -13996,7 +13996,7 @@
         "resourceBoxId": 60139,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1752033600000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14019,7 +14019,7 @@
         "resourceBoxId": 60140,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1752033600000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14042,7 +14042,7 @@
         "resourceBoxId": 60141,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1752033600000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14065,7 +14065,7 @@
         "resourceBoxId": 60142,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1754712000000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14088,7 +14088,7 @@
         "resourceBoxId": 60143,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1754712000000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14111,7 +14111,7 @@
         "resourceBoxId": 60144,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1757476800000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14134,7 +14134,7 @@
         "resourceBoxId": 60145,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1757476800000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14157,7 +14157,7 @@
         "resourceBoxId": 60146,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1757476800000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
@@ -14180,11 +14180,34 @@
         "resourceBoxId": 60147,
         "refreshCycle": "none",
         "exchangeLimit": null,
-        "startAt": 1760263200000,
+        "startAt": 1744257600000,
         "endAt": null,
         "costs": [
           {
             "materialExchangeId": 60147,
+            "costGroupId": 1,
+            "seq": 1,
+            "resourceId": 47,
+            "quantity": 7,
+            "resourceType": null
+          }
+        ]
+      },
+      {
+        "id": 60148,
+        "materialExchangeSummaryId": 6,
+        "seq": 1480,
+        "displayName": null,
+        "isDisplayQuantity": true,
+        "thumbnailAssetbundleName": null,
+        "resourceBoxId": 60148,
+        "refreshCycle": "none",
+        "exchangeLimit": null,
+        "startAt": 1744257600000,
+        "endAt": null,
+        "costs": [
+          {
+            "materialExchangeId": 60148,
             "costGroupId": 1,
             "seq": 1,
             "resourceId": 47,
