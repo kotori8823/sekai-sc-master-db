@@ -1614,13 +1614,5 @@
     "assetbundleName": "ceil_item",
     "convertStartAt": 1767067200000,
     "convertResourceBoxId": 2
-  },
-  {
-    "id": 392,
-    "gachaId": 657,
-    "name": "[电影]Recollection招募贴纸",
-    "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1772078400000,
-    "convertResourceBoxId": 2
   }
 ]

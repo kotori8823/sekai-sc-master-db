@@ -12660,6 +12660,12 @@
     "releaseConditionId": 116307
   },
   {
+    "id": 200001,
+    "topicType": "cut_in_voice",
+    "topicTypeId": 4124,
+    "releaseConditionId": 1010201
+  },
+  {
     "id": 200002,
     "topicType": "cut_in_voice",
     "topicTypeId": 4125,
