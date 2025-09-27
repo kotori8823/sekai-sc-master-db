@@ -673,7 +673,7 @@
                 "id": 4020206,
                 "panelMissionSheetId": 40202,
                 "name": "在歌曲《热风》的\n任意5种难度中\n达成AP",
-                "description": "在歌曲《热风》的任意5种难度中达成FULL COMBO。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
+                "description": "在歌曲《热风》的任意5种难度中达成ALL PERFECT。\n（EASY/NORMAL/HARD/EXPERT/MASTER/APPEND难度）",
                 "seq": 6,
                 "panelMissionType": "live_clear_all_perfect_all_difficulty_in_music",
                 "requirement1": 5,
