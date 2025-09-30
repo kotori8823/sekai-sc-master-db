@@ -122552,6 +122552,14 @@
     "resourceType": "jewel"
   },
   {
+    "resourceBoxId": 402,
+    "resourceQuantity": 3900,
+    "resourceId": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "resourceLevel": null,
+    "resourceType": "live_point"
+  },
+  {
     "resourceBoxId": 403,
     "resourceQuantity": 1,
     "resourceId": 545001,
