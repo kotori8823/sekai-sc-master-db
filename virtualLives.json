@@ -260535,7 +260535,7 @@
     "name": "荆棘之路通往何处 后日谈·演唱会",
     "assetbundleName": "vlentrance_00330",
     "screenMvMusicVocalId": 1518,
-    "startAt": 1760263200000,
+    "startAt": 1760166000000,
     "endAt": 1761029999000,
     "rankingAnnounceAt": 4102415999000,
     "archiveReleaseConditionId": 114408,
@@ -260793,7 +260793,7 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 330,
-      "startAt": 1760263200000,
+      "startAt": 1760166000000,
       "endAt": 1761029999000
     },
     "virtualItems": [

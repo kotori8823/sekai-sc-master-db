@@ -9970,7 +9970,7 @@
     "characterId1": 20,
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1760263200000,
+    "archivePublishedAt": 1760166000000,
     "description": "参加“荆棘之路通往何处”\n后日谈·演唱会"
   },
   {
@@ -11135,7 +11135,8 @@
     "seq": 100540,
     "name": "[文字表情]中秋快乐！",
     "assetbundleName": "stamp10054",
-    "balloonAssetbundleName": "balloon_stamp_01",
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "normal",
     "archivePublishedAt": 1759464000000,
     "description": "月光下的中秋应援祭！活动获得"
   },
