@@ -1,7 +1,7 @@
 [
   {
     "id": 4,
-    "name": "4周年纪念印章任务 BLOOM",
+    "name": "半周年纪念印章任务 BLOOM",
     "assetbundleName": "4th_anniv_pm_bloom",
     "bgmAssetbundleName": "4th_anniv_pm_bloom_bgm",
     "selectableLimit": 4,
@@ -2657,7 +2657,7 @@
   },
   {
     "id": 5,
-    "name": "4周年纪念印章任务 CONNECT",
+    "name": "半周年纪念印章任务 CONNECT",
     "assetbundleName": "4th_anniv_pm_connect",
     "bgmAssetbundleName": "4th_anniv_pm_connect_bgm",
     "selectableLimit": 3,
@@ -2925,7 +2925,7 @@
                 "id": 5010302,
                 "panelMissionSheetId": 50103,
                 "name": "使用包含特定组合成员的编组\n进行10次演出",
-                "description": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行10次演出。",
+                "description": "使用至少1名Vivid BAD SQUAD成员进行编组\n并进行10次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
                 "requirement1": 10,
@@ -3037,7 +3037,7 @@
                 "id": 5010402,
                 "panelMissionSheetId": 50104,
                 "name": "使用包含特定组合成员的编组\n进行20次演出",
-                "description": "使用至少1名Vivid BAD SQUAD歌手成员进行编组\n并进行20次演出。",
+                "description": "使用至少1名Vivid BAD SQUAD成员进行编组\n并进行20次演出。",
                 "seq": 2,
                 "panelMissionType": "play_live_with_unit",
                 "requirement1": 20,
@@ -4968,15 +4968,15 @@
   },
   {
     "id": 6,
-    "name": "4周年纪念印章任务 CHEER",
+    "name": "半周年纪念印章任务 CHEER",
     "assetbundleName": "4th_anniv_pm_cheer",
     "bgmAssetbundleName": "4th_anniv_pm_cheer_bgm",
     "selectableLimit": 3,
-    "startAt": 1761040800000,
+    "startAt": 1761030000000,
     "progressEndAt": 1761893999000,
     "closedAt": 1761893999000,
     "distributionEndAt": 1763103599000,
-    "informationId": 10286,
+    "informationId": 10343,
     "panelMissionSheetGroups": [
       {
         "id": 601,
@@ -5051,7 +5051,7 @@
               {
                 "id": 6010105,
                 "panelMissionSheetId": 60101,
-                "name": "参加1次\n“Rekindle\n the flame\nアフターライブ\n后日谈·演唱会”",
+                "name": "参加1次\n“Rekindle\n the flame\n后日谈·演唱会”",
                 "description": "参加1次\n“Rekindle the flame 后日谈·演唱会”。",
                 "seq": 8,
                 "panelMissionType": "join_virtual_live",
@@ -5165,7 +5165,7 @@
               {
                 "id": 6010205,
                 "panelMissionSheetId": 60102,
-                "name": "在“Rekindle\n the flame\n后日谈·演唱会”\n中累计获得\n1500应援积分",
+                "name": "在“Rekindle the flame\n后日谈·演唱会”\n中累计获得\n1500应援积分",
                 "description": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
@@ -5391,7 +5391,7 @@
               {
                 "id": 6010405,
                 "panelMissionSheetId": 60104,
-                "name": "在“〇〇\n后日谈·演唱会”\n中累计获得\n1500应援积分",
+                "name": "在“Rekindle the flame\n后日谈·演唱会”\n中累计获得\n1500应援积分",
                 "description": "在“Rekindle the flame后日谈·演唱会”中\n累计获得1500应援积分。",
                 "seq": 8,
                 "panelMissionType": "collect_virtual_live_cheer_point_in_live",
