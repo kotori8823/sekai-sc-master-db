@@ -473040,6 +473040,102 @@
     "resourceType": "custom_profile_collection_resource"
   },
   {
+    "resourceBoxId": 2103,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 2103,
+    "resourceQuantity": 1,
+    "resourceId": 90001,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "resourceBoxId": 2103,
+    "resourceQuantity": 1,
+    "resourceId": 90002,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "resourceBoxId": 2104,
+    "resourceQuantity": 600,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 2104,
+    "resourceQuantity": 2,
+    "resourceId": 24,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2105,
+    "resourceQuantity": 2,
+    "resourceId": 24,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 2106,
+    "resourceQuantity": 1,
+    "resourceId": 5002,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 2107,
+    "resourceQuantity": 1,
+    "resourceId": 513,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "resourceBoxId": 2108,
+    "resourceQuantity": 1,
+    "resourceId": 514,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "mysekai_blueprint"
+  },
+  {
+    "resourceBoxId": 2109,
+    "resourceQuantity": 500,
+    "resourceId": null,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 2110,
+    "resourceQuantity": 300,
+    "resourceId": 11,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 2110,
+    "resourceQuantity": 30,
+    "resourceId": 12,
+    "resourceBoxPurpose": "login_bonus",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
     "resourceBoxId": 5001,
     "resourceQuantity": 1,
     "resourceId": 3000,
@@ -640734,6 +640830,270 @@
     "resourceBoxPurpose": "mission_reward",
     "resourceLevel": null,
     "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400089,
+    "resourceQuantity": 10,
+    "resourceId": 15,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 400090,
+    "resourceQuantity": 1,
+    "resourceId": 2,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 400091,
+    "resourceQuantity": 30,
+    "resourceId": 1,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "practice_ticket"
+  },
+  {
+    "resourceBoxId": 400092,
+    "resourceQuantity": 10,
+    "resourceId": 15,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 400093,
+    "resourceQuantity": 10000,
+    "resourceId": null,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "coin"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10059,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10060,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10061,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10062,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10063,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 10064,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 400094,
+    "resourceQuantity": 1,
+    "resourceId": 17,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 400095,
+    "resourceQuantity": 3,
+    "resourceId": 1,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 400096,
+    "resourceQuantity": 20,
+    "resourceId": 13,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "material"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920001,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920002,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920003,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920004,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920005,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920006,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920007,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 920008,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921001,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921002,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921003,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921004,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921005,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921006,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921007,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 1,
+    "resourceId": 921008,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "costume_3d"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 5,
+    "resourceId": 17,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 3,
+    "resourceId": 1005,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "boost_item"
+  },
+  {
+    "resourceBoxId": 400097,
+    "resourceQuantity": 20000,
+    "resourceId": null,
+    "resourceBoxPurpose": "mission_reward",
+    "resourceLevel": null,
+    "resourceType": "coin"
   },
   {
     "resourceBoxId": 500000,
