@@ -4405,7 +4405,7 @@
   },
   {
     "id": 162,
-    "seq": 3735101,
+    "seq": 3735201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4421,7 +4421,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_162",
-    "publishedAt": 1764831600000,
+    "publishedAt": 1764820800000,
     "releasedAt": 1764831600000,
     "fillerSec": 9.0,
     "infos": [
@@ -4433,12 +4433,13 @@
         "arranger": "cosMo@暴走P"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 163,
-    "seq": 3735201,
+    "seq": 3735301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4454,7 +4455,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_163",
-    "publishedAt": 1764918000000,
+    "publishedAt": 1764907200000,
     "releasedAt": 1764918000000,
     "fillerSec": 9.0,
     "infos": [
@@ -4466,12 +4467,13 @@
         "arranger": "sasakure.UK"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 164,
-    "seq": 3735301,
+    "seq": 3735401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4487,7 +4489,7 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_164",
-    "publishedAt": 1765004400000,
+    "publishedAt": 1764993600000,
     "releasedAt": 1765004400000,
     "fillerSec": 9.0,
     "infos": [
@@ -4499,6 +4501,7 @@
         "arranger": "黒魔"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -13630,7 +13633,7 @@
   },
   {
     "id": 447,
-    "seq": 3735401,
+    "seq": 3735501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13646,8 +13649,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_447",
-    "publishedAt": 1765090800000,
-    "releasedAt": 1765090800000,
+    "publishedAt": 1765080000000,
+    "releasedAt": 1765080000000,
     "fillerSec": 9.300000190734863,
     "infos": [
       {
@@ -13658,12 +13661,13 @@
         "arranger": "ぬゆり"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 448,
-    "seq": 3735501,
+    "seq": 3735601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13679,8 +13683,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_448",
-    "publishedAt": 1765177200000,
-    "releasedAt": 1765177200000,
+    "publishedAt": 1765166400000,
+    "releasedAt": 1765166400000,
     "fillerSec": 8.586199760437012,
     "infos": [
       {
@@ -13691,12 +13695,13 @@
         "arranger": "かめりあ"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 449,
-    "seq": 3735601,
+    "seq": 3735701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13712,8 +13717,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_449",
-    "publishedAt": 1765263600000,
-    "releasedAt": 1765263600000,
+    "publishedAt": 1765252800000,
+    "releasedAt": 1765252800000,
     "fillerSec": 7.7891998291015625,
     "infos": [
       {
@@ -13724,6 +13729,7 @@
         "arranger": "Ponchi♪"
       }
     ],
+    "musicCollaborationId": 1,
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
@@ -15751,8 +15757,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_518",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1765782000000,
+    "releasedAt": 1765782000000,
     "fillerSec": 9.0,
     "infos": {},
     "isNewlyWrittenMusic": false,
@@ -15809,8 +15815,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_520",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1767164400000,
+    "releasedAt": 1767164400000,
     "fillerSec": 8.18179988861084,
     "infos": {},
     "isNewlyWrittenMusic": false,
@@ -16595,7 +16601,7 @@
   },
   {
     "id": 553,
-    "seq": 1199922,
+    "seq": 1135101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -16611,8 +16617,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_553",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1764572400000,
+    "releasedAt": 1764572400000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -16669,10 +16675,18 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_555",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1766127600000,
+    "releasedAt": 1766127600000,
     "fillerSec": 9.0,
-    "infos": {},
+    "infos": [
+      {
+        "title": "Fusion",
+        "creator": "DECO*27",
+        "lyricist": "DECO*27 (OTOIRO)",
+        "composer": "DECO*27 (OTOIRO)",
+        "arranger": "tepe (OTOIRO) "
+      }
+    ],
     "musicCollaborationId": 7,
     "isNewlyWrittenMusic": true,
     "isFullLength": false
@@ -16916,7 +16930,7 @@
   },
   {
     "id": 569,
-    "seq": 1199931,
+    "seq": 1199929,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -17441,8 +17455,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_593",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1766646000000,
+    "releasedAt": 1766646000000,
     "fillerSec": 9.0,
     "infos": {},
     "isNewlyWrittenMusic": false,
