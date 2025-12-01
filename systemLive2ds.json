@@ -65870,7 +65870,7 @@
     "characterId": 1
   },
   {
-    "voice": "system_winter_001_002",
+    "voice": "system_winter_001_003",
     "expression": "face_smallmouth_01",
     "motion": "w-normal04-tilthead",
     "publishedAt": 1764486000000,
@@ -66080,7 +66080,7 @@
     "characterId": 6
   },
   {
-    "voice": "system_winter_006_003",
+    "voice": "system_winter_006_001",
     "expression": "face_smile_01",
     "motion": "w-normal03-nod",
     "publishedAt": 1764486000000,
@@ -66206,7 +66206,7 @@
     "characterId": 9
   },
   {
-    "voice": "system_winter_009_005",
+    "voice": "system_winter_009_004",
     "expression": "face_smile_02",
     "motion": "w-normal01-nod",
     "publishedAt": 1764486000000,
@@ -66262,7 +66262,7 @@
     "characterId": 10
   },
   {
-    "voice": "system_winter_010_001",
+    "voice": "system_winter_010_005",
     "expression": "face_smile_01",
     "motion": "w-cool10-nod",
     "publishedAt": 1764486000000,
@@ -66388,7 +66388,7 @@
     "characterId": 13
   },
   {
-    "voice": "system_winter_013_001",
+    "voice": "system_winter_013_007",
     "expression": "face_surprise_01",
     "motion": "m-proud11-shakehead",
     "publishedAt": 1764486000000,
@@ -66416,7 +66416,7 @@
     "characterId": 14
   },
   {
-    "voice": "system_winter_014_002",
+    "voice": "system_winter_014_005",
     "expression": "face_ncsmallmouth_01",
     "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
@@ -66472,7 +66472,7 @@
     "characterId": 15
   },
   {
-    "voice": "system_winter_015_006",
+    "voice": "system_winter_015_005",
     "expression": "face_smile_01",
     "motion": "w-normal07-nod",
     "publishedAt": 1764486000000,
@@ -66500,7 +66500,7 @@
     "characterId": 16
   },
   {
-    "voice": "system_winter_016_007",
+    "voice": "system_winter_016_005",
     "expression": "face_smile_07",
     "motion": "m-proud12-tilthead",
     "publishedAt": 1764486000000,
@@ -66556,7 +66556,7 @@
     "characterId": 17
   },
   {
-    "voice": "system_winter_017_006",
+    "voice": "system_winter_017_007",
     "expression": "face_smile_02",
     "motion": "w-kanade16-sad",
     "publishedAt": 1764486000000,
@@ -66682,7 +66682,7 @@
     "characterId": 20
   },
   {
-    "voice": "system_winter_020_007",
+    "voice": "system_winter_020_003",
     "expression": "face_smile_01",
     "motion": "w-cool10-tilthead",
     "publishedAt": 1764486000000,
@@ -66696,7 +66696,7 @@
     "characterId": 20
   },
   {
-    "voice": "partvoice_07_021_piapro",
+    "voice": "partvoice_30_021_piapro",
     "expression": "face_smile_01",
     "motion": "w-cute12-nod",
     "publishedAt": 1764486000000,
@@ -66710,7 +66710,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_02_021_piapro",
+    "voice": "partvoice_01_021_piapro",
     "expression": "face_smile_02",
     "motion": "w-cute12-tilthead",
     "publishedAt": 1764486000000,
@@ -66752,7 +66752,7 @@
     "characterId": 22
   },
   {
-    "voice": "partvoice_22_022",
+    "voice": "partvoice_07_022",
     "expression": "face_smile_01",
     "motion": "w-cute02-nodB",
     "publishedAt": 1764486000000,
@@ -66766,7 +66766,7 @@
     "characterId": 22
   },
   {
-    "voice": "partvoice_134_022_band",
+    "voice": "partvoice_01_022",
     "expression": "face_smile_01",
     "motion": "w-cute02-tilthead",
     "publishedAt": 1764486000000,
@@ -66836,7 +66836,7 @@
     "characterId": 24
   },
   {
-    "voice": "partvoice_20_024",
+    "voice": "partvoice_07_024",
     "expression": "face_smile_01",
     "motion": "w-adult01-think",
     "publishedAt": 1764486000000,
@@ -66850,7 +66850,7 @@
     "characterId": 24
   },
   {
-    "voice": "partvoice_16_024",
+    "voice": "partvoice_01_024",
     "expression": "face_smile_05",
     "motion": "w-adult05-tilthead",
     "publishedAt": 1764486000000,
@@ -66920,7 +66920,7 @@
     "characterId": 26
   },
   {
-    "voice": "partvoice_01_026",
+    "voice": "partvoice_12_026",
     "expression": "face_smile_01",
     "motion": "m-normal13-nod",
     "publishedAt": 1764486000000,
@@ -66962,7 +66962,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_02_021_band",
+    "voice": "partvoice_20_021_band",
     "expression": "face_band_smile_01",
     "motion": "w-cool13-tilthead",
     "publishedAt": 1764486000000,
@@ -66976,7 +66976,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_20_021_band",
+    "voice": "partvoice_12_021_band",
     "expression": "face_band_smile_04",
     "motion": "w-cute02-nod",
     "publishedAt": 1764486000000,
@@ -66990,7 +66990,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_01_021_idol",
+    "voice": "partvoice_20_021_idol",
     "expression": "face_idol_smile_03",
     "motion": "w-cute12-nod",
     "publishedAt": 1764486000000,
@@ -67004,7 +67004,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_07_021_idol",
+    "voice": "partvoice_02_021_idol",
     "expression": "face_idol_smile_01",
     "motion": "w-cute11-tilthead",
     "publishedAt": 1764486000000,
@@ -67032,7 +67032,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_31_021_street",
+    "voice": "partvoice_03_021_street",
     "expression": "face_street_smile_01",
     "motion": "w-cool10-tilthead",
     "publishedAt": 1764486000000,
@@ -67060,7 +67060,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_18_021_idol",
+    "voice": "partvoice_12_021_street",
     "expression": "face_street_smile_04",
     "motion": "w-normal08-tilthead",
     "publishedAt": 1764486000000,
@@ -67088,7 +67088,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_20_021_wonder",
+    "voice": "partvoice_32_021_wonder",
     "expression": "face_wonder_closeeye_02",
     "motion": "w-cute01-glad03",
     "publishedAt": 1764486000000,
@@ -67102,7 +67102,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_02_021_wonder",
+    "voice": "partvoice_03_021_wonder",
     "expression": "face_wonder_smile_01",
     "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
@@ -67130,7 +67130,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_03_021_night",
+    "voice": "partvoice_16_021_night",
     "expression": "face_night_smile_01",
     "motion": "w-normal07-tilthead",
     "publishedAt": 1764486000000,
@@ -67144,7 +67144,7 @@
     "characterId": 21
   },
   {
-    "voice": "partvoice_16_021_night",
+    "voice": "partvoice_12_021_night",
     "expression": "face_night_smile_02",
     "motion": "w-normal15-nod",
     "publishedAt": 1764486000000,
@@ -67398,8 +67398,8 @@
   {
     "voice": "system_birthday_008_add2024_020",
     "expression": "face_smile_01",
-    "motion": "w-cute02-glad",
-    "publishedAt": 1764950400000,
+    "motion": "w-cool02-tilthead",
+    "publishedAt": 1764951137000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
     "unit": "school_refusal",
@@ -67410,7 +67410,7 @@
     "characterId": 20
   },
   {
-    "voice": "partvoice_20_021_idol",
+    "voice": "partvoice_23_021_idol",
     "expression": "face_idol_smile_03",
     "motion": "w-cute01-glad03",
     "publishedAt": 1764950400000,
