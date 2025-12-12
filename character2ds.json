@@ -2083,33 +2083,6 @@
     "assetName": "17kanade"
   },
   {
-    "id": 245,
-    "characterType": "game_character",
-    "isNextGrade": false,
-    "characterId": 6,
-    "unit": "idol",
-    "isEnabledFlipDisplay": true,
-    "assetName": "06haruka"
-  },
-  {
-    "id": 246,
-    "characterType": "game_character",
-    "isNextGrade": false,
-    "characterId": 9,
-    "unit": "street",
-    "isEnabledFlipDisplay": true,
-    "assetName": "09kohane"
-  },
-  {
-    "id": 247,
-    "characterType": "game_character",
-    "isNextGrade": false,
-    "characterId": 18,
-    "unit": "school_refusal",
-    "isEnabledFlipDisplay": true,
-    "assetName": "18mafuyu"
-  },
-  {
     "id": 248,
     "characterType": "mob",
     "isNextGrade": false,

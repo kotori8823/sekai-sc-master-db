@@ -65858,21 +65858,21 @@
   {
     "voice": "system_winter_001_008",
     "expression": "face_smile_02",
-    "motion": "w-animal02-tilthead",
+    "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
     "unit": "light_sound",
     "specialSeasonId": null,
-    "serif": "刚才去便利店看到熬点在打折。\n要不要和大家一起去吃呢？",
+    "serif": "刚才去便利店看到关东煮在打折。\n要不要和大家一起去吃呢？",
     "id": 4798,
     "closedAt": 1772262000000,
     "characterId": 1
   },
   {
     "voice": "system_winter_001_003",
-    "expression": "face_smallmouth_01",
-    "motion": "w-normal04-tilthead",
+    "expression": "face_smile_03",
+    "motion": "w-normal01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_1",
@@ -65885,8 +65885,8 @@
   },
   {
     "voice": "system_winter_001_004",
-    "expression": "face_smallmouth_01",
-    "motion": "w-normal04-nod",
+    "expression": "face_smile_04",
+    "motion": "w-normal07-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_1",
@@ -65900,7 +65900,7 @@
   {
     "voice": "system_winter_002_008",
     "expression": "face_smile_01",
-    "motion": "w-cute01-tilthead",
+    "motion": "w-cute12-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -65914,7 +65914,7 @@
   {
     "voice": "system_winter_002_004",
     "expression": "face_ncsmile_04",
-    "motion": "w-cute11-tilthead",
+    "motion": "w-cute11-glad",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_2",
@@ -65928,7 +65928,7 @@
   {
     "voice": "system_winter_002_007",
     "expression": "face_trouble_04",
-    "motion": "w-cute12-tilthead",
+    "motion": "w-cute02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_2",
@@ -65941,8 +65941,8 @@
   },
   {
     "voice": "system_winter_003_008",
-    "expression": "face_smile_04",
-    "motion": "w-adult01-tilthead",
+    "expression": "face_ncsmile_01",
+    "motion": "w-normal04-forward",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -65955,8 +65955,8 @@
   },
   {
     "voice": "system_winter_003_004",
-    "expression": "face_ncsmile_01",
-    "motion": "w-normal15-tilthead",
+    "expression": "face_smile_05",
+    "motion": "w-adult02-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_3",
@@ -65970,7 +65970,7 @@
   {
     "voice": "system_winter_003_005",
     "expression": "face_ncsmile_01",
-    "motion": "w-adult12-tilthead",
+    "motion": "w-adult02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_3",
@@ -65984,7 +65984,7 @@
   {
     "voice": "system_winter_004_008",
     "expression": "face_smile_02",
-    "motion": "w-cool02-tilthead",
+    "motion": "w-cool13-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -65997,8 +65997,8 @@
   },
   {
     "voice": "system_winter_004_001",
-    "expression": "face_smile_05",
-    "motion": "w-cool06-blushed",
+    "expression": "face_trouble_01",
+    "motion": "w-cool10-angry",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_4",
@@ -66012,7 +66012,7 @@
   {
     "voice": "system_winter_004_004",
     "expression": "face_smile_02",
-    "motion": "w-cool06-nod",
+    "motion": "w-cool02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_4",
@@ -66039,8 +66039,8 @@
   },
   {
     "voice": "system_winter_005_007",
-    "expression": "face_baffling_01",
-    "motion": "w-cute11-forward",
+    "expression": "face_closeeye_03",
+    "motion": "w-cute11-glad02",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_5",
@@ -66054,7 +66054,7 @@
   {
     "voice": "system_winter_005_006",
     "expression": "face_smile_01",
-    "motion": "w-cute12-tilthead",
+    "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_5",
@@ -66068,7 +66068,7 @@
   {
     "voice": "system_winter_006_008",
     "expression": "face_smile_01",
-    "motion": "w-normal01-tilthead",
+    "motion": "w-cool02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66082,7 +66082,7 @@
   {
     "voice": "system_winter_006_001",
     "expression": "face_smile_01",
-    "motion": "w-normal03-nod",
+    "motion": "w-cool13-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_6",
@@ -66096,7 +66096,7 @@
   {
     "voice": "system_winter_006_007",
     "expression": "face_smile_02",
-    "motion": "w-normal03-tilthead",
+    "motion": "w-cute02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_6",
@@ -66110,7 +66110,7 @@
   {
     "voice": "system_winter_007_008",
     "expression": "face_smile_01",
-    "motion": "w-cute02-tilthead",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66138,7 +66138,7 @@
   {
     "voice": "system_winter_007_005",
     "expression": "face_smile_09",
-    "motion": "w-normal08-tilthead",
+    "motion": "w-cute01-tilthead02",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_7",
@@ -66152,7 +66152,7 @@
   {
     "voice": "system_winter_008_008",
     "expression": "face_smile_01",
-    "motion": "w-adult11-tilthead",
+    "motion": "w-adult12-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66166,7 +66166,7 @@
   {
     "voice": "system_winter_008_001",
     "expression": "face_sad_01",
-    "motion": "w-adult12-tilthead",
+    "motion": "w-adult11-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_8",
@@ -66180,7 +66180,7 @@
   {
     "voice": "system_winter_008_005",
     "expression": "face_smile_01",
-    "motion": "w-adult01-tilthead",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_8",
@@ -66193,7 +66193,7 @@
   },
   {
     "voice": "system_winter_009_008",
-    "expression": "face_smile_01",
+    "expression": "face_smile_02",
     "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
@@ -66207,8 +66207,8 @@
   },
   {
     "voice": "system_winter_009_004",
-    "expression": "face_smile_02",
-    "motion": "w-normal01-nod",
+    "expression": "face_trouble_05",
+    "motion": "w-normal03-trouble",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_9",
@@ -66221,8 +66221,8 @@
   },
   {
     "voice": "system_winter_009_001",
-    "expression": "face_sad_01",
-    "motion": "w-cute11-shy02",
+    "expression": "face_shy_01",
+    "motion": "w-normal16-angry",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_9",
@@ -66236,7 +66236,7 @@
   {
     "voice": "system_winter_010_008",
     "expression": "face_smile_01",
-    "motion": "w-cool02-tilthead",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66250,7 +66250,7 @@
   {
     "voice": "system_winter_010_006",
     "expression": "face_smile_04",
-    "motion": "w-normal04-trouble",
+    "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_10",
@@ -66263,8 +66263,8 @@
   },
   {
     "voice": "system_winter_010_005",
-    "expression": "face_smile_01",
-    "motion": "w-cool10-nod",
+    "expression": "face_smile_03",
+    "motion": "w-cool09-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_10",
@@ -66278,7 +66278,7 @@
   {
     "voice": "system_winter_011_008",
     "expression": "face_smile_01",
-    "motion": "m-normal13-tilthead",
+    "motion": "m-normal14-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66292,7 +66292,7 @@
   {
     "voice": "system_winter_011_005",
     "expression": "face_disgust_01",
-    "motion": "m-normal13-sigh",
+    "motion": "m-normal17-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_11",
@@ -66306,7 +66306,7 @@
   {
     "voice": "system_winter_011_007",
     "expression": "face_smile_01",
-    "motion": "m-proud12-nod",
+    "motion": "m-normal14-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_11",
@@ -66334,13 +66334,13 @@
   {
     "voice": "system_winter_012_004",
     "expression": "face_smallmouth_01",
-    "motion": "m-adult10-tilthead",
+    "motion": "m-adult16-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_12",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "今天是周末，我原本来游戏厅\n只是为了暖暖身子……但那只\n毛茸茸的玩偶看起来好暖和啊……",
+    "serif": "周末的时候，我原本只是为了\n取暖才去了游戏厅……但那只\n毛茸茸的玩偶看起来好暖和啊……",
     "id": 4832,
     "closedAt": 1772262000000,
     "characterId": 12
@@ -66348,7 +66348,7 @@
   {
     "voice": "system_winter_012_005",
     "expression": "face_smile_01",
-    "motion": "m-normal14-nod",
+    "motion": "m-adult05-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_12",
@@ -66375,8 +66375,8 @@
   },
   {
     "voice": "system_winter_013_004",
-    "expression": "face_smile_02",
-    "motion": "m-proud17-glad",
+    "expression": "face_smile_03",
+    "motion": "m-proud11-smug",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_13",
@@ -66389,8 +66389,8 @@
   },
   {
     "voice": "system_winter_013_007",
-    "expression": "face_surprise_01",
-    "motion": "m-proud11-shakehead",
+    "expression": "face_smile_01",
+    "motion": "m-normal13-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_13",
@@ -66403,8 +66403,8 @@
   },
   {
     "voice": "system_winter_014_008",
-    "expression": "face_sparkling_01",
-    "motion": "w-cute11-forward",
+    "expression": "face_ncsmile_02",
+    "motion": "w-cute12-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66417,8 +66417,8 @@
   },
   {
     "voice": "system_winter_014_005",
-    "expression": "face_ncsmallmouth_01",
-    "motion": "w-cute01-tilthead",
+    "expression": "face_ncsmile_02",
+    "motion": "w-cute01-forward03",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_14",
@@ -66431,8 +66431,8 @@
   },
   {
     "voice": "system_winter_014_004",
-    "expression": "face_ncsmile_02",
-    "motion": "w-cute01-forward03",
+    "expression": "face_sparkling_01",
+    "motion": "w-cute11-forward",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_14",
@@ -66445,8 +66445,8 @@
   },
   {
     "voice": "system_winter_015_008",
-    "expression": "face_trouble_01",
-    "motion": "w-normal04-trouble",
+    "expression": "face_trouble_02",
+    "motion": "w-normal03-trouble",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66459,8 +66459,8 @@
   },
   {
     "voice": "system_winter_015_004",
-    "expression": "face_smile_07",
-    "motion": "w-normal04-tilthead",
+    "expression": "face_surprise_01",
+    "motion": "w-normal07-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_15",
@@ -66473,8 +66473,8 @@
   },
   {
     "voice": "system_winter_015_005",
-    "expression": "face_smile_01",
-    "motion": "w-normal07-nod",
+    "expression": "face_smile_09",
+    "motion": "w-adult01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_15",
@@ -66488,7 +66488,7 @@
   {
     "voice": "system_winter_016_008",
     "expression": "face_smile_01",
-    "motion": "m-adult10-tilthead",
+    "motion": "m-adult10-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66501,8 +66501,8 @@
   },
   {
     "voice": "system_winter_016_005",
-    "expression": "face_smile_07",
-    "motion": "m-proud12-tilthead",
+    "expression": "face_smile_01",
+    "motion": "m-cool02-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_16",
@@ -66515,8 +66515,8 @@
   },
   {
     "voice": "system_winter_016_004",
-    "expression": "face_smile_01",
-    "motion": "m-proud12-nod",
+    "expression": "face_smile_03",
+    "motion": "m-cool08-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_16",
@@ -66529,7 +66529,7 @@
   },
   {
     "voice": "system_winter_017_008",
-    "expression": "face_sneeze_01",
+    "expression": "face_sad_01",
     "motion": "w-normal03-trouble",
     "publishedAt": 1764486000000,
     "weight": 1,
@@ -66558,7 +66558,7 @@
   {
     "voice": "system_winter_017_007",
     "expression": "face_smile_02",
-    "motion": "w-kanade16-sad",
+    "motion": "w-kanade07-sad",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_17",
@@ -66572,7 +66572,7 @@
   {
     "voice": "system_winter_018_008",
     "expression": "face_normal_01",
-    "motion": "w-normal07-tilthead",
+    "motion": "w-normal15-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66586,7 +66586,7 @@
   {
     "voice": "system_winter_018_004",
     "expression": "face_normal_01",
-    "motion": "w-normal15-tilthead",
+    "motion": "w-normal07-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_18",
@@ -66600,7 +66600,7 @@
   {
     "voice": "system_winter_018_005",
     "expression": "face_normal_01",
-    "motion": "w-normal03-tilthead",
+    "motion": "w-normal07-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_18",
@@ -66614,7 +66614,7 @@
   {
     "voice": "system_winter_019_008",
     "expression": "face_smile_01",
-    "motion": "w-adult01-tilthead",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66628,7 +66628,7 @@
   {
     "voice": "system_winter_019_004",
     "expression": "face_trouble_02",
-    "motion": "w-cute01-tilthead",
+    "motion": "w-happy09-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_19",
@@ -66641,8 +66641,8 @@
   },
   {
     "voice": "system_winter_019_006",
-    "expression": "face_smile_01",
-    "motion": "w-cute12-tilthead",
+    "expression": "face_smallmouth_01",
+    "motion": "w-cute01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_19",
@@ -66655,8 +66655,8 @@
   },
   {
     "voice": "system_winter_020_008",
-    "expression": "face_smile_06",
-    "motion": "w-cool02-tilthead",
+    "expression": "face_smile_08",
+    "motion": "w-normal04-trouble",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_winter_2024",
@@ -66669,8 +66669,8 @@
   },
   {
     "voice": "system_winter_020_005",
-    "expression": "face_smile_01",
-    "motion": "w-cute02-tilthead",
+    "expression": "face_smile_07",
+    "motion": "w-cute02-nodB",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_20",
@@ -66683,8 +66683,8 @@
   },
   {
     "voice": "system_winter_020_003",
-    "expression": "face_smile_01",
-    "motion": "w-cool10-tilthead",
+    "expression": "face_sad_02",
+    "motion": "w-happy14-shakehead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_20",
@@ -66704,15 +66704,15 @@
     "assetbundleName": "voicepack_21_piapro",
     "unit": "piapro",
     "specialSeasonId": null,
-    "serif": "今天也很冷，\n不过这种时候更想和大家一起唱\n冬日独有的歌曲啊",
+    "serif": "今天也很冷，\n不过这种时候更想和大家一起唱\n冬日独有的歌曲啊。",
     "id": 4858,
     "closedAt": 1772262000000,
     "characterId": 21
   },
   {
     "voice": "partvoice_01_021_piapro",
-    "expression": "face_smile_02",
-    "motion": "w-cute12-tilthead",
+    "expression": "face_smile_01",
+    "motion": "w-normal01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_piapro",
@@ -66725,8 +66725,8 @@
   },
   {
     "voice": "partvoice_03_021_piapro",
-    "expression": "face_smallmouth_01",
-    "motion": "w-normal01-tilthead",
+    "expression": "face_smile_01",
+    "motion": "w-normal03-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_piapro",
@@ -66753,8 +66753,8 @@
   },
   {
     "voice": "partvoice_07_022",
-    "expression": "face_smile_01",
-    "motion": "w-cute02-nodB",
+    "expression": "face_smile_03",
+    "motion": "w-cute02-glad",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_22",
@@ -66768,7 +66768,7 @@
   {
     "voice": "partvoice_01_022",
     "expression": "face_smile_01",
-    "motion": "w-cute02-tilthead",
+    "motion": "w-cute11-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_22",
@@ -66809,8 +66809,8 @@
   },
   {
     "voice": "partvoice_01_023",
-    "expression": "face_smile_01",
-    "motion": "l-normal14-nod",
+    "expression": "face_closeeye_02",
+    "motion": "l-normal17-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_23",
@@ -66837,8 +66837,8 @@
   },
   {
     "voice": "partvoice_07_024",
-    "expression": "face_smile_01",
-    "motion": "w-adult01-think",
+    "expression": "face_smile_04",
+    "motion": "w-adult12-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_24",
@@ -66851,8 +66851,8 @@
   },
   {
     "voice": "partvoice_01_024",
-    "expression": "face_smile_05",
-    "motion": "w-adult05-tilthead",
+    "expression": "face_smile_02",
+    "motion": "w-adult01-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_24",
@@ -66866,7 +66866,7 @@
   {
     "voice": "partvoice_01_025",
     "expression": "face_smile_02",
-    "motion": "w-cool10-tilthead",
+    "motion": "w-cool13-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_25",
@@ -66880,7 +66880,7 @@
   {
     "voice": "partvoice_30_025",
     "expression": "face_smile_02",
-    "motion": "w-cute02-nod",
+    "motion": "w-cool09-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_25",
@@ -66893,8 +66893,8 @@
   },
   {
     "voice": "partvoice_14_025",
-    "expression": "face_smile_02",
-    "motion": "w-cool10-nod",
+    "expression": "face_smile_01",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_25",
@@ -66922,7 +66922,7 @@
   {
     "voice": "partvoice_12_026",
     "expression": "face_smile_01",
-    "motion": "m-normal13-nod",
+    "motion": "m-normal17-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_26",
@@ -66936,7 +66936,7 @@
   {
     "voice": "partvoice_30_026",
     "expression": "face_smile_01",
-    "motion": "m-proud12-tilthead",
+    "motion": "m-cool02-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_26",
@@ -66950,13 +66950,13 @@
   {
     "voice": "partvoice_01_021_band",
     "expression": "face_band_smile_01",
-    "motion": "w-cool02-tilthead",
+    "motion": "w-cool06-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_light_sound",
     "unit": "light_sound",
     "specialSeasonId": null,
-    "serif": "作为慰问品，一歌送了我熬点……\n要先吃哪个呢，\n还是浸透了汤汁的萝卜吧！",
+    "serif": "作为慰问品，一歌送了我关东煮……\n要先吃哪个呢，\n还是浸透了汤汁的萝卜吧！",
     "id": 4876,
     "closedAt": 1772262000000,
     "characterId": 21
@@ -66964,7 +66964,7 @@
   {
     "voice": "partvoice_20_021_band",
     "expression": "face_band_smile_01",
-    "motion": "w-cool13-tilthead",
+    "motion": "w-normal04-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_light_sound",
@@ -66992,7 +66992,7 @@
   {
     "voice": "partvoice_20_021_idol",
     "expression": "face_idol_smile_03",
-    "motion": "w-cute12-nod",
+    "motion": "w-cute12-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_idol",
@@ -67006,7 +67006,7 @@
   {
     "voice": "partvoice_02_021_idol",
     "expression": "face_idol_smile_01",
-    "motion": "w-cute11-tilthead",
+    "motion": "w-cute02-guts",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_idol",
@@ -67020,7 +67020,7 @@
   {
     "voice": "partvoice_18_021_idol",
     "expression": "face_idol_smile_04",
-    "motion": "w-cute01-tilthead",
+    "motion": "w-cute11-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_idol",
@@ -67034,7 +67034,7 @@
   {
     "voice": "partvoice_03_021_street",
     "expression": "face_street_smile_01",
-    "motion": "w-cool10-tilthead",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_street",
@@ -67047,8 +67047,8 @@
   },
   {
     "voice": "partvoice_07_021_street",
-    "expression": "face_street_smile_05",
-    "motion": "w-cool02-tilthead",
+    "expression": "face_street_smile_03",
+    "motion": "w-cool09-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_street",
@@ -67061,8 +67061,8 @@
   },
   {
     "voice": "partvoice_12_021_street",
-    "expression": "face_street_smile_04",
-    "motion": "w-normal08-tilthead",
+    "expression": "face_street_smile_03",
+    "motion": "w-cool13-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_street",
@@ -67075,7 +67075,7 @@
   },
   {
     "voice": "partvoice_01_021_wonder",
-    "expression": "face_wonder_kirakira_01",
+    "expression": "face_wonder_smile_01",
     "motion": "w-cute11-tilthead",
     "publishedAt": 1764486000000,
     "weight": 1,
@@ -67090,7 +67090,7 @@
   {
     "voice": "partvoice_32_021_wonder",
     "expression": "face_wonder_closeeye_02",
-    "motion": "w-cute01-glad03",
+    "motion": "w-cute11-glad",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_theme_park",
@@ -67104,7 +67104,7 @@
   {
     "voice": "partvoice_03_021_wonder",
     "expression": "face_wonder_smile_01",
-    "motion": "w-cute01-tilthead",
+    "motion": "w-cute02-forward",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_theme_park",
@@ -67131,8 +67131,8 @@
   },
   {
     "voice": "partvoice_16_021_night",
-    "expression": "face_night_smile_01",
-    "motion": "w-normal07-tilthead",
+    "expression": "face_night_normal_01",
+    "motion": "w-normal15-shy",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_school_refusal",
@@ -67145,8 +67145,8 @@
   },
   {
     "voice": "partvoice_12_021_night",
-    "expression": "face_night_smile_02",
-    "motion": "w-normal15-nod",
+    "expression": "face_night_smile_01",
+    "motion": "w-normal07-nod",
     "publishedAt": 1764486000000,
     "weight": 1,
     "assetbundleName": "voicepack_21_school_refusal",
@@ -67160,7 +67160,7 @@
   {
     "voice": "system_birthday_008_add2024_001",
     "expression": "face_smile_02",
-    "motion": "w-cute02-nod",
+    "motion": "w-normal01-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67202,7 +67202,7 @@
   {
     "voice": "system_birthday_008_add2024_004",
     "expression": "face_smile_02",
-    "motion": "w-cool10-nod",
+    "motion": "w-cute02-nodB",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67215,8 +67215,8 @@
   },
   {
     "voice": "system_birthday_008_add2024_005",
-    "expression": "face_sparkling_01",
-    "motion": "w-cute12-nod",
+    "expression": "face_smile_02",
+    "motion": "w-animal12-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67230,7 +67230,7 @@
   {
     "voice": "system_birthday_008_add2024_006",
     "expression": "face_smile_01",
-    "motion": "w-normal01-nod",
+    "motion": "w-cute02-nodB",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67244,7 +67244,7 @@
   {
     "voice": "system_birthday_008_add2024_007",
     "expression": "face_smile_03",
-    "motion": "w-cute02-glad",
+    "motion": "w-normal01-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67258,7 +67258,7 @@
   {
     "voice": "system_birthday_008_add2024_008",
     "expression": "face_smile_02",
-    "motion": "w-adult01-nod",
+    "motion": "w-adult12-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67271,8 +67271,8 @@
   },
   {
     "voice": "system_birthday_008_add2024_009",
-    "expression": "face_smile_01",
-    "motion": "w-animal01-nod",
+    "expression": "face_smile_04",
+    "motion": "w-animal12-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67285,8 +67285,8 @@
   },
   {
     "voice": "system_birthday_008_add2024_010",
-    "expression": "face_smile_05",
-    "motion": "w-cute02-nod",
+    "expression": "face_smile_01",
+    "motion": "w-animal01-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67300,7 +67300,7 @@
   {
     "voice": "system_birthday_008_add2024_011",
     "expression": "face_smallmouth_01",
-    "motion": "m-normal13-nod",
+    "motion": "m-cool08-tilthead",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67314,7 +67314,7 @@
   {
     "voice": "system_birthday_008_add2024_012",
     "expression": "face_smile_01",
-    "motion": "m-normal14-tilthead",
+    "motion": "m-normal13-tilthead",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67328,7 +67328,7 @@
   {
     "voice": "system_birthday_008_add2024_013",
     "expression": "face_smile_02",
-    "motion": "m-proud07-nod",
+    "motion": "m-proud11-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67341,14 +67341,14 @@
   },
   {
     "voice": "system_birthday_008_add2024_014",
-    "expression": "face_ncsmile_03",
-    "motion": "w-cute11-glad",
+    "expression": "face_smile_04",
+    "motion": "w-cute11-tilthead",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
     "unit": "theme_park",
     "specialSeasonId": null,
-    "serif": "为了给学姐庆祝，\n我准备了一场可以变得\nMORE MORE Wonderho～i☆的演出哦！",
+    "serif": "为了给学姐庆祝，\n我们准备了一场可以变得MORE\nMORE Wonderho～i☆的演出哦！",
     "id": 4904,
     "closedAt": 1765036799000,
     "characterId": 14
@@ -67356,7 +67356,7 @@
   {
     "voice": "system_birthday_008_add2024_016",
     "expression": "face_smile_01",
-    "motion": "m-cool08-nod",
+    "motion": "m-normal14-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67370,13 +67370,13 @@
   {
     "voice": "system_birthday_008_add2024_018",
     "expression": "face_smile_01",
-    "motion": "w-normal01-nod",
+    "motion": "w-adult01-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
     "unit": "school_refusal",
     "specialSeasonId": null,
-    "serif": "日野森同学，祝你生日快乐。\n学妹告诉了我一款很受欢迎\n的点心，就买了送给你。",
+    "serif": "日野森同学，祝你生日快乐。\n学妹告诉了我一款很受欢迎的\n点心，所以我就买来了。",
     "id": 4906,
     "closedAt": 1765036799000,
     "characterId": 18
@@ -67384,7 +67384,7 @@
   {
     "voice": "system_birthday_008_add2024_019",
     "expression": "face_smile_01",
-    "motion": "w-cute12-nod",
+    "motion": "w-animal01-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_birth_12_2024",
@@ -67412,7 +67412,7 @@
   {
     "voice": "partvoice_23_021_idol",
     "expression": "face_idol_smile_03",
-    "motion": "w-cute01-glad03",
+    "motion": "w-cute12-nod",
     "publishedAt": 1764950400000,
     "weight": 1,
     "assetbundleName": "voicepack_21_idol",
@@ -68202,7 +68202,7 @@
     "assetbundleName": "voicepack_25",
     "unit": "piapro",
     "specialSeasonId": null,
-    "serif": "纪念日快乐，连！\n我为你准备了一个特大的蛋糕，\n要多吃一点哦！",
+    "serif": "纪念日快乐，连！\n我们为你准备了一个特大蛋糕，\n要多吃一点哦！",
     "id": 4965,
     "closedAt": 1766851199000,
     "characterId": 25
@@ -68342,7 +68342,7 @@
     "assetbundleName": "voicepack_anniv_22_2024",
     "unit": "light_sound",
     "specialSeasonId": null,
-    "serif": "铃，纪念日快乐！\n礼物的话，就选和我家同款的\n那个兔子玩偶就可以了是吗？",
+    "serif": "铃，纪念日快乐！\n礼物的话，选和我家同款的\n那个兔子玩偶就可以了是吗？",
     "id": 4975,
     "closedAt": 1766851199000,
     "characterId": 4
@@ -68580,7 +68580,7 @@
     "assetbundleName": "voicepack_21_piapro",
     "unit": "piapro",
     "specialSeasonId": null,
-    "serif": "铃，纪念日快乐！\n给连他们准备的惊喜演出\n一定会很顺利的，加油哦！",
+    "serif": "铃，纪念日快乐！\n给连准备的惊喜演出\n一定会很顺利的，加油哦！",
     "id": 4992,
     "closedAt": 1766851199000,
     "characterId": 21
@@ -68636,7 +68636,7 @@
     "assetbundleName": "voicepack_25",
     "unit": "piapro",
     "specialSeasonId": null,
-    "serif": "没想到送给铃他们的蛋糕，\n居然会这么大……！\n里面肯定装满了大家的心意吧♪",
+    "serif": "没想到送给铃他们的蛋糕，\n会做得这么大……！\n里面肯定满是我们的心意啊♪",
     "id": 4996,
     "closedAt": 1766851199000,
     "characterId": 25
@@ -68762,7 +68762,7 @@
     "assetbundleName": "voicepack_newyearseve_2024",
     "unit": "light_sound",
     "specialSeasonId": null,
-    "serif": "我要去买做年菜的食材了。\n宵崎学姐，你们有什么想吃的吗？",
+    "serif": "我要去买做年菜的食材了。\n不知道宵崎学姐她们想吃什么。",
     "id": 5005,
     "closedAt": 1767196799000,
     "characterId": 3
@@ -68818,7 +68818,7 @@
     "assetbundleName": "voicepack_newyearseve_2024",
     "unit": "idol",
     "specialSeasonId": null,
-    "serif": "呵呵呵。\n新年我有一个非常期待的计划哦～\n现在就开始充满干劲了呢。",
+    "serif": "呵呵呵，\n新年我有一个非常期待的安排哦~\n现在就开始充满干劲了呢。",
     "id": 5009,
     "closedAt": 1767196799000,
     "characterId": 7
@@ -68888,7 +68888,7 @@
     "assetbundleName": "voicepack_newyearseve_2024",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "回想起来，这一年都在\n和伙伴们一起全力奔跑。\n希望新的一年也能过得更精彩。",
+    "serif": "回想起来，这一年都在\n和伙伴们一起全力奔跑。\n希望新的一年也能过得很精彩。",
     "id": 5014,
     "closedAt": 1767196799000,
     "characterId": 12
@@ -69560,7 +69560,7 @@
     "assetbundleName": "voicepack_21_street",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "听说要出新年限定的开运咖啡。\n杯子里印的签文也有我写的哦。",
+    "serif": "新年推出了限定的开运咖啡哦。\n一部分杯子里印的签文\n是我写的。",
     "id": 5062,
     "closedAt": 1767455999000,
     "characterId": 21
@@ -69658,7 +69658,7 @@
     "assetbundleName": "voicepack_birth_04_2025",
     "unit": "idol",
     "specialSeasonId": null,
-    "serif": "礼物就是……锵锵！\n可爱的小兔子护身符哦。\n希望你的运气和成绩都会变好♪",
+    "serif": "礼物就是……锵锵！\n可爱的小兔子护身符哦。\n希望小步的运气和成绩都能变好♪",
     "id": 5069,
     "closedAt": 1767887999000,
     "characterId": 5
@@ -69728,7 +69728,7 @@
     "assetbundleName": "voicepack_birth_04_2025",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "日野森学姐，生日快乐！\n……和大家一起过生日的你，\n感觉更温柔了，真好啊！",
+    "serif": "日野森同学，生日快乐！\n……和大家一起过生日的你，\n感觉更温柔了，真好啊！",
     "id": 5074,
     "closedAt": 1767887999000,
     "characterId": 10
@@ -69812,7 +69812,7 @@
     "assetbundleName": "voicepack_birth_04_2025",
     "unit": "school_refusal",
     "specialSeasonId": null,
-    "serif": "小步，生日快乐～♪\n下次我们把雫也叫上，\n一起去看可爱的东西吧！",
+    "serif": "小步，生日快乐～♪\n下次我们把小雫也叫上，\n一起去看可爱的东西吧！",
     "id": 5080,
     "closedAt": 1767887999000,
     "characterId": 20
@@ -69854,7 +69854,7 @@
     "assetbundleName": "voicepack_birth_18_2025",
     "unit": "light_sound",
     "specialSeasonId": null,
-    "serif": "今天是朝比奈学姐的生日！\n我一定要把派对的气氛\n也带动起来哦～♪",
+    "serif": "今天是朝比奈学姐的生日！\n我一定要把派对的气氛\n带动起来～♪",
     "id": 5083,
     "closedAt": 1769529599000,
     "characterId": 2
@@ -69924,7 +69924,7 @@
     "assetbundleName": "voicepack_birth_18_2025",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "咦，今天是朝比奈学姐的生日啊！\n这么难得，\n就拜托瑞希帮我转达祝福吧！",
+    "serif": "咦，今天是朝比奈学姐的生日啊！\n机会难得，\n就拜托瑞希帮我转达祝福吧！",
     "id": 5088,
     "closedAt": 1769529599000,
     "characterId": 10
@@ -69952,7 +69952,7 @@
     "assetbundleName": "voicepack_birth_18_2025",
     "unit": "street",
     "specialSeasonId": null,
-    "serif": "朝比奈学姐，原来是你过生日啊。\n到时候请让我和彰人他们一起\n给你好好庆祝一下吧。",
+    "serif": "朝比奈学姐，今天是你的生日啊。\n之后请让我和彰人他们一起\n为你好好庆祝一下吧。",
     "id": 5090,
     "closedAt": 1769529599000,
     "characterId": 12
@@ -70134,7 +70134,7 @@
     "assetbundleName": "voicepack_anniv_24_2025",
     "unit": "idol",
     "specialSeasonId": null,
-    "serif": "派对的最后会播放\n大家一起拍的祝福视频。\n因为是准备的惊喜，好紧张啊～！",
+    "serif": "派对的最后会播放\n大家一起拍的祝福视频。\n因为是惊喜环节，好紧张啊～！",
     "id": 5103,
     "closedAt": 1769788799000,
     "characterId": 5

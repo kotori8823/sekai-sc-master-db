@@ -6334,7 +6334,6 @@
   {
     "id": 308,
     "name": "「Eコラボ」チケットショップ_物販",
-    "virtualLiveId": 355,
     "virtualShopItems": [
       {
         "id": 497,
@@ -6385,14 +6384,6 @@
         "limitValue": 1
       }
     ],
-    "virtualShopType": "other",
-    "virtualShopDisplayType": "out_of_scope"
-  },
-  {
-    "id": 310,
-    "name": "「Eコラボ」チケットショップ_物販",
-    "virtualLiveId": 356,
-    "virtualShopItems": [],
     "virtualShopType": "other",
     "virtualShopDisplayType": "out_of_scope"
   },
