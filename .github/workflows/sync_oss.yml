@@ -1,0 +1,33 @@
+name: Sync to Backblaze B2
+
+# 触发机制：只要 master 或 main 分支有 push 动作（包括你服务器自动 push 的）就立即执行
+on:
+  push:
+    branches: [ "master", "main" ]
+  workflow_dispatch: # 保留一个手动按钮，以防万一
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 下载仓库代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # 只需要最新代码，加快速度
+
+      # 2. 安装 B2 官方命令行工具
+      - name: Install B2 CLI
+        run: pip install b2
+
+      # 3. 执行同步
+      - name: Sync Files to B2
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_BUCKET_NAME: ${{ secrets.B2_BUCKET_NAME }}
+        run: |
+          # 登录 B2
+          b2 account authorize $B2_KEY_ID $B2_APP_KEY
+          rm -rf .git .github
+          b2 sync --threads 10 . b2://$B2_BUCKET_NAME/pjsk/sekai-db/cn
