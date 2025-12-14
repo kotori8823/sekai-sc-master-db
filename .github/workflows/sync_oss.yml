@@ -28,6 +28,6 @@ jobs:
           B2_BUCKET_NAME: ${{ secrets.B2_BUCKET_NAME }}
         run: |
           # 登录 B2
-          b2 account authorize $B2_KEY_ID $B2_APP_KEY
+          b2 account authorize $B2_KEY_ID $B2_APP_KEY > /dev/null
           rm -rf .git .github
           b2 sync --threads 10 . b2://$B2_BUCKET_NAME/pjsk/sekai-db/cn
