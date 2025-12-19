@@ -1128,5 +1128,25 @@
     "endAt": 1765123199000,
     "appealReadConditionType": "transition",
     "text": "感恩节优惠礼包"
+  },
+  {
+    "id": 421,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "appealReadConditionType": "transition",
+    "text": "圣诞节服装"
+  },
+  {
+    "id": 422,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1766505600000,
+    "endAt": 1766937599000,
+    "appealReadConditionType": "transition",
+    "text": "圣诞节服装"
   }
 ]
