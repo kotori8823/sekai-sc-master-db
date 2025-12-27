@@ -1,33 +1,210 @@
-name: Sync to Backblaze B2
+name: Sync & Purge Directories
 
-# 触发机制：只要 master 或 main 分支有 push 动作（包括你服务器自动 push 的）就立即执行
 on:
   push:
     branches: [ "master", "main" ]
-  workflow_dispatch: # 保留一个手动按钮，以防万一
+  workflow_dispatch:
 
 jobs:
-  deploy:
+  deploy-and-purge:
     runs-on: ubuntu-latest
     steps:
-      # 1. 下载仓库代码
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1 # 只需要最新代码，加快速度
+          fetch-depth: 1
 
-      # 2. 安装 B2 官方命令行工具
-      - name: Install B2 CLI
-        run: pip install b2
-
-      # 3. 执行同步
-      - name: Sync Files to B2
-        env:
-          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
-          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
-          B2_BUCKET_NAME: ${{ secrets.B2_BUCKET_NAME }}
+      - name: Cleanup Git Files
+        run: rm -rf .git .github
+      # ========================================================
+      # 阶段 1: 存储桶同步 (Storage Sync)
+      # ========================================================      
+      - name: Install Rclone
         run: |
-          # 登录 B2
-          b2 account authorize $B2_KEY_ID $B2_APP_KEY > /dev/null
-          rm -rf .git .github
-          b2 sync --threads 10 . b2://$B2_BUCKET_NAME/pjsk/sekai-db/cn
+          curl -O https://downloads.rclone.org/rclone-current-linux-amd64.zip
+          unzip -q rclone-current-linux-amd64.zip
+          
+          cd rclone-*-linux-amd64
+          sudo cp rclone /usr/bin/
+          sudo chown root:root /usr/bin/rclone
+          sudo chmod 755 /usr/bin/rclone
+          cd ..
+          
+          rm -rf rclone-*-linux-amd64* rclone-current-linux-amd64.zip
+          rclone version
+          
+      - name: Sync to Backblaze B2
+        env:
+          RCLONE_CONFIG_B2_TYPE: b2
+          RCLONE_CONFIG_B2_ACCOUNT: ${{ secrets.B2_KEY_ID }}
+          RCLONE_CONFIG_B2_KEY: ${{ secrets.B2_APP_KEY }}
+        run: |
+          rclone sync . b2:${{ secrets.B2_BUCKET_NAME }}/pjsk/sekai-db/cn \
+            --verbose --transfers 32 --checkers 64 \
+            --exclude ".git/**" --exclude ".github/**"
+            
+      - name: Sync to R2
+        env:
+          RCLONE_CONFIG_R2_TYPE: s3
+          RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+          RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: |
+          rclone sync . r2:${{ secrets.R2_BUCKET_NAME }}/pjsk/sekai-db/cn \
+            --verbose \
+            --transfers 32 \
+            --checkers 64 \
+            --exclude ".git/**" \
+            --exclude ".github/**"
+
+      - name: Sync to Tencent OSS
+        env:
+          RCLONE_CONFIG_TENCENT_TYPE: s3
+          RCLONE_CONFIG_TENCENT_PROVIDER: TencentCOS
+          RCLONE_CONFIG_TENCENT_ACCESS_KEY_ID: ${{ secrets.TENCENT_SECRET_ID }}
+          RCLONE_CONFIG_TENCENT_SECRET_ACCESS_KEY: ${{ secrets.TENCENT_SECRET_KEY }}
+          RCLONE_CONFIG_TENCENT_ENDPOINT: https://cos.${{ secrets.OSS_REGION }}.myqcloud.com
+        run: |
+          rclone sync . tencent:${{ secrets.OSS_BUCKET }}/sekai-db/cn \
+            --verbose --transfers 32 --checkers 64 \
+            --exclude ".git/**" --exclude ".github/**"
+
+      # ========================================================
+      # 阶段 2: CDN 缓存清理 (Directory Purge)
+      # ========================================================
+     
+
+      - name: Purge Cloudflare Prefix
+        env:
+          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          B2_BUCKET_NAME: ${{ secrets.B2_BUCKET_NAME }}
+        shell: python
+        run: |
+          import os, requests, json
+          bucket_name = os.environ["B2_BUCKET_NAME"]
+
+          targets = [
+            f"cdn.8823.eu.org/file/{bucket_name}/pjsk/sekai-db/cn/"
+          ]
+
+          zone_id = os.environ["CF_ZONE_ID"]
+          token = os.environ["CF_API_TOKEN"]
+          url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/purge_cache"
+          
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Content-Type": "application/json"
+          }
+          
+          payload = { "prefixes": targets }
+          
+          try:
+              resp = requests.post(url, headers=headers, json=payload)
+              print(f"Status: {resp.status_code}")
+              print(resp.text)
+          except Exception as e:
+              print(f"Error: {e}")
+
+      - name: Purge Tencent EdgeOne
+        env:
+          TENCENT_EO_SECRET_ID: ${{ secrets.RESONACN_TENCENT_SECRET_ID }}
+          TENCENT_EO_SECRET_KEY: ${{ secrets.RESONACN_TENCENT_SECRET_KEY }}
+          TEO_ZONE_ID: ${{ secrets.TEO_ZONE_ID }}
+        shell: python
+        run: |
+          # -*- coding: utf-8 -*-
+          import hashlib, hmac, json, os, sys, time
+          from datetime import datetime, timezone
+          
+          secret_id = os.environ.get("TENCENT_EO_SECRET_ID")
+          secret_key = os.environ.get("TENCENT_EO_SECRET_KEY")
+          zone_id = os.environ.get("TEO_ZONE_ID")
+
+          service = "teo"
+          host = "teo.tencentcloudapi.com"
+          action = "CreatePurgeTask"
+          version = "2022-09-01"
+          algorithm = "TC3-HMAC-SHA256"
+          timestamp = int(time.time())
+          
+          date = datetime.fromtimestamp(timestamp, timezone.utc).strftime("%Y-%m-%d")
+
+
+          targets = [
+              "https://assets.resona.cn/sekai-db/cn/"
+          ]
+          
+          params = {
+              "ZoneId": zone_id,
+              "Type": "purge_prefix", 
+              "Method": "delete",
+              "Targets": targets
+          }
+          
+          payload = json.dumps(params, separators=(',', ':'))
+
+
+          http_request_method = "POST"
+          canonical_uri = "/"
+          canonical_querystring = ""
+          ct = "application/json; charset=utf-8"
+          canonical_headers = "content-type:%s\nhost:%s\n" % (ct, host)
+          signed_headers = "content-type;host"
+          hashed_request_payload = hashlib.sha256(payload.encode("utf-8")).hexdigest()
+          canonical_request = (http_request_method + "\n" +
+                               canonical_uri + "\n" +
+                               canonical_querystring + "\n" +
+                               canonical_headers + "\n" +
+                               signed_headers + "\n" +
+                               hashed_request_payload)
+
+          credential_scope = date + "/" + service + "/" + "tc3_request"
+          hashed_canonical_request = hashlib.sha256(canonical_request.encode("utf-8")).hexdigest()
+          string_to_sign = (algorithm + "\n" +
+                            str(timestamp) + "\n" +
+                            credential_scope + "\n" +
+                            hashed_canonical_request)
+
+          def sign(key, msg):
+              return hmac.new(key, msg.encode("utf-8"), hashlib.sha256).digest()
+          
+          secret_date = sign(("TC3" + secret_key).encode("utf-8"), date)
+          secret_service = sign(secret_date, service)
+          secret_signing = sign(secret_service, "tc3_request")
+          signature = hmac.new(secret_signing, string_to_sign.encode("utf-8"), hashlib.sha256).hexdigest()
+
+
+          authorization = (algorithm + " " +
+                           "Credential=" + secret_id + "/" + credential_scope + ", " +
+                           "SignedHeaders=" + signed_headers + ", " +
+                           "Signature=" + signature)
+
+          import requests
+          
+          headers = {
+              "Authorization": authorization,
+              "Content-Type": "application/json; charset=utf-8",
+              "Host": host,
+              "X-TC-Action": action,
+              "X-TC-Timestamp": str(timestamp),
+              "X-TC-Version": version
+          }
+          
+          endpoint = "https://" + host
+          
+          print(f"Purging TEO Targets: {targets}")
+          
+          try:
+              response = requests.post(endpoint, headers=headers, data=payload)
+              
+              print(f"Status Code: {response.status_code}")
+              print(f"Response: {response.text}")
+              
+              if response.status_code != 200 or "Error" in response.text:
+                  sys.exit(1)
+                  
+          except Exception as err:
+              print(f"Request Failed: {err}")
+              sys.exit(1)
