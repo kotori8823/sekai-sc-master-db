@@ -32,7 +32,29 @@ jobs:
           
           rm -rf rclone-*-linux-amd64* rclone-current-linux-amd64.zip
           rclone version
-          
+      - name: Minify JSON with orjson
+        shell: bash
+        run: |
+          pip install orjson
+          python -c "
+          import os, orjson
+
+          print('Starting fast minification with orjson...')
+          count = 0
+          for root, dirs, files in os.walk('.'):
+              for file in files:
+                  if file.endswith('.json'):
+                      path = os.path.join(root, file)
+                      try:
+                          with open(path, 'rb') as f:
+                              data = orjson.loads(f.read())
+                          with open(path, 'wb') as f:
+                              f.write(orjson.dumps(data))
+                          count += 1
+                      except Exception as e:
+                          print(f'Error processing {path}: {e}')
+          print(f'Processed {count} files.')
+          "
       - name: Sync to Backblaze B2
         env:
           RCLONE_CONFIG_B2_TYPE: b2
