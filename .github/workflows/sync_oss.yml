@@ -108,7 +108,9 @@ jobs:
           bucket_name = os.environ["B2_BUCKET_NAME"]
 
           targets = [
-            f"cdn.8823.eu.org/file/{bucket_name}/pjsk/sekai-db/cn/"
+            f"cdn.8823.eu.org/file/{bucket_name}/pjsk/sekai-db/cn/",
+            "assets.resona.cn/sekai-db/cn/",
+            "assets.8823.eu.org/sekai-db/cn/"
           ]
 
           zone_id = os.environ["CF_ZONE_ID"]
