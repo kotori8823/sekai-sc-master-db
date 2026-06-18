@@ -9745,7 +9745,6 @@
                 "seq": 1,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 1,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9760,7 +9759,6 @@
                 "seq": 2,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 3,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9775,7 +9773,6 @@
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 5,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9790,7 +9787,6 @@
                 "seq": 4,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 8,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9805,7 +9801,6 @@
                 "seq": 5,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 10,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9820,7 +9815,6 @@
                 "seq": 6,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 15,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9835,7 +9829,6 @@
                 "seq": 7,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 20,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9864,7 +9857,6 @@
                 "seq": 1,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 1,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9879,7 +9871,6 @@
                 "seq": 2,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 5,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9894,7 +9885,6 @@
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 10,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9909,7 +9899,6 @@
                 "seq": 4,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 15,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9924,7 +9913,6 @@
                 "seq": 5,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 20,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9939,7 +9927,6 @@
                 "seq": 6,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 30,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9954,7 +9941,6 @@
                 "seq": 7,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 39,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9983,7 +9969,6 @@
                 "seq": 1,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 1,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -9998,7 +9983,6 @@
                 "seq": 2,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 10,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10013,7 +9997,6 @@
                 "seq": 3,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 15,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10028,7 +10011,6 @@
                 "seq": 4,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 30,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10043,7 +10025,6 @@
                 "seq": 5,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 40,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10058,7 +10039,6 @@
                 "seq": 6,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 50,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10073,7 +10053,6 @@
                 "seq": 7,
                 "panelMissionType": "live_clear_with_different_music",
                 "requirement1": 60,
-                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10335,6 +10314,7 @@
                 "seq": 1,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 1,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10349,6 +10329,7 @@
                 "seq": 2,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 3,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10363,6 +10344,7 @@
                 "seq": 3,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 5,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10377,6 +10359,7 @@
                 "seq": 4,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 10,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10391,6 +10374,7 @@
                 "seq": 5,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 15,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10405,6 +10389,7 @@
                 "seq": 6,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 20,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -10419,6 +10404,7 @@
                 "seq": 7,
                 "panelMissionType": "live_clear_music_score",
                 "requirement1": 30,
+                "requirement2": 1,
                 "rewards": [
                   [
                     1733
@@ -11261,6 +11247,142 @@
             "rewards": [
               [
                 1768
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "[DEEMO×Cytus系列]联动纪念印章任务",
+    "assetbundleName": "dc_tieup_pm",
+    "bgmAssetbundleName": "dc_tieup_pm_bgm",
+    "selectableLimit": 1,
+    "startAt": 1781938800000,
+    "progressEndAt": 1783007999000,
+    "closedAt": 1783007999000,
+    "distributionEndAt": 1784217599000,
+    "informationId": 10692,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1501,
+        "panelMissionCampaignId": 15,
+        "name": "联动",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 150101,
+            "panelMissionSheetGroupId": 1501,
+            "name": "联动卡",
+            "seq": 1,
+            "assetbundleName": "sheet_dc_tieup",
+            "panelMissions": [
+              {
+                "id": 15010101,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《SAIRAI》",
+                "description": "完成2次歌曲《SAIRAI》。\n*2026/6/20 15:00追加歌曲。",
+                "seq": 1,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010102,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《CHAOS》",
+                "description": "完成2次歌曲《CHAOS》。\n*2026/6/21 15:00追加歌曲。",
+                "seq": 2,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010103,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《Saika》",
+                "description": "完成2次歌曲《Saika》。\n*2026/6/22 15:00追加歌曲。",
+                "seq": 3,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010104,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《99 Glooms》",
+                "description": "完成2次歌曲《99 Glooms》。\n*2026/6/23 15:00追加歌曲。",
+                "seq": 4,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010105,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《ANiMA》",
+                "description": "完成2次歌曲《ANiMA》。\n*2026/6/24 15:00追加歌曲。",
+                "seq": 5,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010106,
+                "panelMissionSheetId": 150101,
+                "name": "完成2次\n歌曲《Masquerade》",
+                "description": "完成2次歌曲《Masquerade》。\n*2026/6/25 15:00追加歌曲。",
+                "seq": 6,
+                "panelMissionType": "live_clear_in_music",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              },
+              {
+                "id": 15010107,
+                "panelMissionSheetId": 150101,
+                "name": "完成10次\n多人演出",
+                "description": "完成10次多人演出。",
+                "seq": 7,
+                "panelMissionType": "multi_live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    2044
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                2045
               ]
             ]
           }

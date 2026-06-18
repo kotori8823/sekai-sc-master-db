@@ -6534,6 +6534,20 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51128,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51129,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -126324,6 +126338,27 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
+    "name": "「わん！もあ！HAPPY TIME」 開催記念の「MORE MORE JUMP！」限定衣装",
+    "id": 64,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "「わん！もあ！HAPPY TIME」 開催記念の「ワンダーランズ×ショウタイム」限定衣装",
+    "id": 65,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[DEEMO×Cytus系列]联动纪念服装",
+    "id": 74,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 3013,
     "resourceBoxType": "expand"
@@ -133957,6 +133992,160 @@
     "name": "「世界」童趣日登录活动第3天奖励。",
     "id": 2146,
     "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第1天奖励。",
+    "id": 2147,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第2天奖励。",
+    "id": 2148,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第3天奖励。",
+    "id": 2149,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第4天奖励。",
+    "id": 2150,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第5天奖励。",
+    "id": 2151,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第6天奖励。",
+    "id": 2152,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典前夜登录活动第7天奖励。",
+    "id": 2153,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第1天奖励。",
+    "id": 2154,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第2天奖励。",
+    "id": 2155,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第3天奖励。",
+    "id": 2156,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第4天奖励。",
+    "id": 2157,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第5天奖励。",
+    "id": 2158,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第6天奖励。",
+    "id": 2159,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日庆典登录活动第7天奖励。",
+    "id": 2160,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "端午节登录活动奖励",
+    "id": 2161,
+    "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2162,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2163,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2164,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2165,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2166,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2167,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
+    "id": 2168,
+    "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,
@@ -174589,6 +174778,20 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
+    "name": "[DEEMO×Cytusシリーズ]タイアップ記念スタンプミッション",
+    "id": 2044,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[DEEMO×Cytusシリーズ]タイアップ記念スタンプミッション",
+    "id": 2045,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
     "name": "EM_各任务完成奖励",
     "id": 8000,
     "resourceBoxType": "expand"
@@ -203823,6 +204026,48 @@
     "resourceBoxPurpose": "shop_item",
     "name": null,
     "id": 11027,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11085,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11086,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11087,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11088,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11089,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "shop_item",
+    "name": null,
+    "id": 11090,
     "resourceBoxType": "expand"
   },
   {
