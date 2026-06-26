@@ -678,5 +678,69 @@
     "resourceBoxId": 85,
     "rarity": 1,
     "weight": 89
+  },
+  {
+    "id": 10001,
+    "groupId": 1000,
+    "seq": 1,
+    "resourceBoxId": 10001,
+    "rarity": 3,
+    "weight": 5
+  },
+  {
+    "id": 10002,
+    "groupId": 1000,
+    "seq": 2,
+    "resourceBoxId": 10002,
+    "rarity": 3,
+    "weight": 30
+  },
+  {
+    "id": 10003,
+    "groupId": 1000,
+    "seq": 3,
+    "resourceBoxId": 10003,
+    "rarity": 3,
+    "weight": 65
+  },
+  {
+    "id": 10004,
+    "groupId": 1000,
+    "seq": 4,
+    "resourceBoxId": 18,
+    "rarity": 2,
+    "weight": 100
+  },
+  {
+    "id": 10005,
+    "groupId": 1000,
+    "seq": 5,
+    "resourceBoxId": 19,
+    "rarity": 2,
+    "weight": 120
+  },
+  {
+    "id": 10006,
+    "groupId": 1000,
+    "seq": 6,
+    "resourceBoxId": 10004,
+    "rarity": 2,
+    "weight": 180
+  },
+  {
+    "id": 10007,
+    "groupId": 1000,
+    "seq": 7,
+    "resourceBoxId": 21,
+    "rarity": 1,
+    "weight": 250
+  },
+  {
+    "id": 10008,
+    "groupId": 1000,
+    "seq": 8,
+    "resourceBoxId": 10005,
+    "rarity": 1,
+    "weight": 250
   }
 ]

@@ -4000,6 +4000,70 @@
     ]
   },
   {
+    "id": 1181,
+    "startAt": 1785340800000,
+    "endAt": 1785772740000,
+    "assetbundleName": "cj_26",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1451,
+        "limitedLoginBonusId": 1181,
+        "day": 1,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1452,
+        "limitedLoginBonusId": 1181,
+        "day": 2,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1453,
+        "limitedLoginBonusId": 1181,
+        "day": 3,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1454,
+        "limitedLoginBonusId": 1181,
+        "day": 4,
+        "resourceBoxId": 2170
+      }
+    ]
+  },
+  {
+    "id": 1182,
+    "startAt": 1783526400000,
+    "endAt": 1783871940000,
+    "assetbundleName": "bw_26",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1455,
+        "limitedLoginBonusId": 1182,
+        "day": 1,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1456,
+        "limitedLoginBonusId": 1182,
+        "day": 2,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1457,
+        "limitedLoginBonusId": 1182,
+        "day": 3,
+        "resourceBoxId": 2169
+      },
+      {
+        "id": 1458,
+        "limitedLoginBonusId": 1182,
+        "day": 4,
+        "resourceBoxId": 2170
+      }
+    ]
+  },
+  {
     "id": 26001,
     "startAt": 1786377600000,
     "endAt": 1786463999000,
@@ -4435,8 +4499,8 @@
   },
   {
     "id": 26306,
-    "startAt": 1783353600000,
-    "endAt": 1783439999000,
+    "startAt": 1783267200000,
+    "endAt": 1783353599000,
     "assetbundleName": "jieqi_202606",
     "limitedLoginBonusDetails": [
       {

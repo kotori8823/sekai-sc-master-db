@@ -1928,5 +1928,155 @@
     "endAt": 1783742399000,
     "appealReadConditionType": "transition",
     "text": "“祈星”服装"
+  },
+  {
+    "id": 501,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783137600000,
+    "endAt": 1783828799000,
+    "appealReadConditionType": "transition",
+    "text": "★4双倍"
+  },
+  {
+    "id": 502,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783137600000,
+    "endAt": 1783828799000,
+    "appealReadConditionType": "transition",
+    "text": "绚烂节日限定成员登场"
+  },
+  {
+    "id": 503,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783137600000,
+    "endAt": 1783828799000,
+    "appealReadConditionType": "transition",
+    "text": "塔罗服装"
+  },
+  {
+    "id": 504,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783137600000,
+    "endAt": 1783828799000,
+    "appealReadConditionType": "transition",
+    "text": "可获得Prize！"
+  },
+  {
+    "id": 505,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783828800000,
+    "endAt": 1784087999000,
+    "appealReadConditionType": "transition",
+    "text": "类、司、宁宁登场"
+  },
+  {
+    "id": 506,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784088000000,
+    "endAt": 1784779199000,
+    "appealReadConditionType": "transition",
+    "text": "穗波、一歌、镜音铃登场"
+  },
+  {
+    "id": 507,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784779200000,
+    "endAt": 1785470399000,
+    "appealReadConditionType": "transition",
+    "text": "实乃理、遥、雫登场"
+  },
+  {
+    "id": 508,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1785470400000,
+    "endAt": 1786161599000,
+    "appealReadConditionType": "transition",
+    "text": "杏、冬弥、巡音流歌登场"
+  },
+  {
+    "id": 509,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783137600000,
+    "endAt": 1784347199000,
+    "appealReadConditionType": "transition",
+    "text": "雫、遥、爱莉再次登场"
+  },
+  {
+    "id": 510,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784347200000,
+    "endAt": 1785556799000,
+    "appealReadConditionType": "transition",
+    "text": "宁宁、彰人、镜音连再次登场"
+  },
+  {
+    "id": 511,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1783742400000,
+    "endAt": 1784951999000,
+    "appealReadConditionType": "transition",
+    "text": "“警察”服装"
+  },
+  {
+    "id": 512,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784952000000,
+    "endAt": 1786161599000,
+    "appealReadConditionType": "transition",
+    "text": "“拾海”服装"
+  },
+  {
+    "id": 513,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784476800000,
+    "endAt": 1785081599000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]草薙宁宁登场"
+  },
+  {
+    "id": 514,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1784995200000,
+    "endAt": 1785599999000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]白石杏登场"
+  },
+  {
+    "id": 515,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1783137600000,
+    "endAt": 1783958399000,
+    "appealReadConditionType": "transition",
+    "text": "[夏日庆典]特惠礼包"
   }
 ]

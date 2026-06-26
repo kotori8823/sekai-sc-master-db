@@ -1950,6 +1950,30 @@
     "quantity": 1000
   },
   {
+    "billingShopItemId": 51124,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 500
+  },
+  {
+    "billingShopItemId": 51125,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
+    "billingShopItemId": 51126,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 3000
+  },
+  {
+    "billingShopItemId": 51127,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 3000
+  },
+  {
     "billingShopItemId": 400001,
     "resourceType": "material",
     "resourceId": 1008,

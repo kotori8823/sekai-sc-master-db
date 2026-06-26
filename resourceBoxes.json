@@ -6534,6 +6534,34 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51124,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51125,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51126,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51127,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 51128,
     "resourceBoxType": "expand"
   },
@@ -114017,6 +114045,13 @@
   },
   {
     "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_bonus_item_receivable_reward",
+    "name": "合奏徽章×100",
+    "id": 10001,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
     "resourceBoxPurpose": "gacha_ceil_exchange",
     "name": null,
     "id": 1,
@@ -126380,6 +126415,27 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
+    "name": "塔罗XVI・XVII限定服装+50合奏徽章",
+    "id": 3019,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "晓山瑞希：爱你哦+50合奏徽章",
+    "id": 3020,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "50合奏徽章",
+    "id": 3021,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
     "name": null,
     "id": 9999,
     "resourceBoxType": "expand"
@@ -126431,6 +126487,20 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": "[祈星]服装",
     "id": 30007,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[警察]服装",
+    "id": 30008,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[拾海]服装",
+    "id": 30009,
     "resourceBoxType": "expand"
   },
   {
@@ -127096,6 +127166,41 @@
     "resourceBoxPurpose": "gacha_freebie_group",
     "name": "ゴールドメダル×1",
     "id": 85,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_freebie_group",
+    "name": "绚烂节日招募专用券×50",
+    "id": 10001,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_freebie_group",
+    "name": "绚烂节日招募专用券×10",
+    "id": 10002,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_freebie_group",
+    "name": "合奏徽章×100",
+    "id": 10003,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_freebie_group",
+    "name": "合奏徽章×30",
+    "id": 10004,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_freebie_group",
+    "name": "合奏徽章×10",
+    "id": 10005,
     "resourceBoxType": "expand"
   },
   {
@@ -134146,6 +134251,20 @@
     "name": "DEEMO×Cytus系列联动纪念登录活动奖励。",
     "id": 2168,
     "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日合奏气泡水×1",
+    "id": 2169,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": "item_box_special",
+    "resourceBoxPurpose": "login_bonus",
+    "name": "夏日合奏气泡水×1\n任务招募券×1",
+    "id": 2170,
+    "resourceBoxType": "list"
   },
   {
     "assetbundleName": null,

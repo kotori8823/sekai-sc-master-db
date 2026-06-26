@@ -58254,7 +58254,7 @@
     "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "Name": "夏日合奏嘉年华兑换所",
-    "assetbundleName": "icon_summer_cn",
+    "assetbundleName": "icon_summer",
     "StartAt": 1783137600000,
     "EndAt": 1785513599000,
     "MaterialExchanges": [
