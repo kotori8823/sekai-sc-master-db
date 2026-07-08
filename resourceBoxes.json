@@ -6576,6 +6576,48 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51130,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51131,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51132,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51133,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51134,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51135,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -131071,6 +131113,13 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "gift_detail",
     "name": null,
+    "id": 50019,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
     "id": 9999999,
     "resourceBoxType": "expand"
   },
@@ -134265,6 +134314,13 @@
     "name": "夏日合奏气泡水×1\n任务招募券×1",
     "id": 2170,
     "resourceBoxType": "list"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "login_bonus",
+    "name": "[全套套装]海豹芙芙",
+    "id": 2171,
+    "resourceBoxType": "expand"
   },
   {
     "assetbundleName": null,

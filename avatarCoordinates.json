@@ -146,7 +146,7 @@
   {
     "id": 17,
     "seq": 170,
-    "name": "金牛玩偶装",
+    "name": "[生肖]金牛玩偶装",
     "assetbundleName": "fullset_0017",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0017",
@@ -416,7 +416,7 @@
   {
     "id": 48,
     "seq": 480,
-    "name": "老虎玩偶装",
+    "name": "[生肖]老虎玩偶装",
     "assetbundleName": "fullset_0048",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0048",
@@ -506,7 +506,7 @@
   {
     "id": 58,
     "seq": 580,
-    "name": "兔子玩偶装",
+    "name": "[生肖]兔子玩偶装",
     "assetbundleName": "fullset_0058",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0058",
@@ -839,7 +839,7 @@
   {
     "id": 96,
     "seq": 980,
-    "name": "龙玩偶装",
+    "name": "[生肖]龙玩偶装",
     "assetbundleName": "fullset_0096",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0096",
@@ -902,7 +902,7 @@
   {
     "id": 103,
     "seq": 1240,
-    "name": "蛇玩偶装",
+    "name": "[生肖]蛇玩偶装",
     "assetbundleName": "fullset_0103",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0103",
@@ -1114,5 +1114,14 @@
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_1014",
     "accessoryAssetbundleName": "fullset_1014"
+  },
+  {
+    "id": 1015,
+    "seq": 1020,
+    "name": "[全套套装]海豹芙芙",
+    "assetbundleName": "fullset_1015",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1015",
+    "accessoryAssetbundleName": "fullset_1015"
   }
 ]

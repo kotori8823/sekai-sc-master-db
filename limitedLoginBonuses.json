@@ -4064,6 +4064,20 @@
     ]
   },
   {
+    "id": 1183,
+    "startAt": 1783699200000,
+    "endAt": 1783785540000,
+    "assetbundleName": "cn_zaixian",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1459,
+        "limitedLoginBonusId": 1183,
+        "day": 1,
+        "resourceBoxId": 2171
+      }
+    ]
+  },
+  {
     "id": 26001,
     "startAt": 1786377600000,
     "endAt": 1786463999000,
