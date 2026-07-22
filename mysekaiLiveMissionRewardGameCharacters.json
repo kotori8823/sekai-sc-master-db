@@ -586,5 +586,96 @@
     "gameCharacterId": 30,
     "name": "[限定风格 vol.2]MEIKO玩偶的设计图",
     "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 84
+  },
+  {
+    "id": 85,
+    "groupId": 11,
+    "gameCharacterId": 2,
+    "name": "[限定风格 vol.2]咲希玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 85
+  },
+  {
+    "id": 86,
+    "groupId": 11,
+    "gameCharacterId": 6,
+    "name": "[限定风格 vol.2]遥玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 86
+  },
+  {
+    "id": 87,
+    "groupId": 11,
+    "gameCharacterId": 10,
+    "name": "[限定风格 vol.2]杏玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 87
+  },
+  {
+    "id": 88,
+    "groupId": 11,
+    "gameCharacterId": 13,
+    "name": "[限定风格 vol.2]司玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 88
+  },
+  {
+    "id": 89,
+    "groupId": 11,
+    "gameCharacterId": 18,
+    "name": "[限定风格 vol.2]真冬玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 89
+  },
+  {
+    "id": 90,
+    "groupId": 11,
+    "gameCharacterId": 21,
+    "name": "[限定风格 vol.2]初音未来玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 90
+  },
+  {
+    "id": 91,
+    "groupId": 11,
+    "gameCharacterId": 27,
+    "name": "[限定风格 vol.2]镜音铃玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 91
+  },
+  {
+    "id": 92,
+    "groupId": 12,
+    "gameCharacterId": 4,
+    "name": "[限定风格 vol.2]志步玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 92
+  },
+  {
+    "id": 93,
+    "groupId": 12,
+    "gameCharacterId": 5,
+    "name": "[限定风格 vol.2]实乃理玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 93
+  },
+  {
+    "id": 94,
+    "groupId": 12,
+    "gameCharacterId": 12,
+    "name": "[限定风格 vol.2]冬弥玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 94
+  },
+  {
+    "id": 95,
+    "groupId": 12,
+    "gameCharacterId": 15,
+    "name": "[限定风格 vol.2]宁宁玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 95
+  },
+  {
+    "id": 96,
+    "groupId": 12,
+    "gameCharacterId": 17,
+    "name": "[限定风格 vol.2]奏玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 96
+  },
+  {
+    "id": 97,
+    "groupId": 12,
+    "gameCharacterId": 31,
+    "name": "[限定风格 vol.2]KAITO玩偶的设计图",
+    "mysekaiLiveMissionRewardMysekaiFixtureGroupId": 97
   }
 ]

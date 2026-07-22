@@ -1368,6 +1368,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 306,
+    "gachaId": 497,
+    "name": "[复刻]大家一起Enjoy Summer！招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1790567999000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 307,
     "gachaId": 498,
     "name": "Not Overlap Sounds招募贴纸",
@@ -1541,6 +1549,14 @@
     "name": "[复刻]CYBER SNIPER招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1777175999000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 340,
+    "gachaId": 540,
+    "name": "[复刻]重合的心愿Words Snow招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1789358399000,
     "convertResourceBoxId": 2
   },
   {
@@ -2192,6 +2208,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 450,
+    "gachaId": 779,
+    "name": "[MORE MORE JUMP！]支援招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1789963200000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 451,
     "gachaId": 782,
     "name": "Empty Teatime招募贴纸",
@@ -2205,6 +2229,14 @@
     "name": "[星乃一歌]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1789542000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 453,
+    "gachaId": 787,
+    "name": "[复刻]传递给你♡Live Streaming招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1791777599000,
     "convertResourceBoxId": 2
   },
   {
@@ -2248,6 +2280,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 459,
+    "gachaId": 800,
+    "name": "[虚拟歌手]支援招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1792468800000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 461,
     "gachaId": 803,
     "name": "Velvet Afternoon招募贴纸",
@@ -2261,6 +2301,14 @@
     "name": "[凤笑梦]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1792047600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 465,
+    "gachaId": 810,
+    "name": "大家都是拓麻歌子之友！梦～幻招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1793764800000,
     "convertResourceBoxId": 2
   },
   {
@@ -2397,6 +2445,14 @@
     "name": "仅限30次！★4双倍 · 自选招募贴纸",
     "assetbundleName": "ceil_item",
     "convertStartAt": 1783439999000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 3035,
+    "gachaId": 3035,
+    "name": "仅限30次！★4双倍 · 自选招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1788883199000,
     "convertResourceBoxId": 2
   }
 ]

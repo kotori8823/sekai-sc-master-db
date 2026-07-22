@@ -1986,6 +1986,18 @@
     "quantity": 1500
   },
   {
+    "billingShopItemId": 51136,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
+    "billingShopItemId": 51137,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
     "billingShopItemId": 400001,
     "resourceType": "material",
     "resourceId": 1008,

@@ -6618,6 +6618,48 @@
     "assetbundleName": null,
     "resourceBoxPurpose": "billing_shop_item",
     "name": null,
+    "id": 51136,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51137,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51138,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 51139,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 60055,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
+    "id": 60056,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "billing_shop_item",
+    "name": null,
     "id": 90001,
     "resourceBoxType": "expand"
   },
@@ -126086,42 +126128,42 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念服装",
+    "name": "纪念服装",
     "id": 13,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念组合服装[Leo/need]",
+    "name": "[Leo/need]组合服装",
     "id": 14,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念组合服装[MORE MORE JUMP！]",
+    "name": "[MORE MORE JUMP！]组合服装",
     "id": 15,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念组合服装[Vivid BAD SQUAD]",
+    "name": "[Vivid BAD SQUAD]组合服装",
     "id": 16,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念组合服装[Wonderlands×Showtime]",
+    "name": "[Wonderlands×Showtime]组合服装",
     "id": 17,
     "resourceBoxType": "costume_3d"
   },
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "gacha_extra",
-    "name": "2周年纪念组合服装[25点，Nightcord见。]",
+    "name": "[25点，Nightcord见。]组合服装",
     "id": 18,
     "resourceBoxType": "costume_3d"
   },
@@ -126543,6 +126585,20 @@
     "resourceBoxPurpose": "gacha_extra",
     "name": "[拾海]服装",
     "id": 30009,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[华丽]服装",
+    "id": 30010,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gacha_extra",
+    "name": "[美式休闲]服装",
+    "id": 30011,
     "resourceBoxType": "expand"
   },
   {
@@ -130428,6 +130484,34 @@
     "resourceBoxPurpose": "gift_detail",
     "name": null,
     "id": 1538,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 1539,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 1540,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 1542,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "gift_detail",
+    "name": null,
+    "id": 1575,
     "resourceBoxType": "expand"
   },
   {
@@ -174960,6 +175044,48 @@
   {
     "assetbundleName": null,
     "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司/まふゆの設計図（S）",
+    "id": 1856,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司の設計図（M）",
+    "id": 1857,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] ミク/リン/咲希/遥/杏/司の設計図（L）",
+    "id": 1858,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（S）",
+    "id": 1866,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（M）",
+    "id": 1867,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
+    "name": "[リミテッドスタイル vol.2] KAITO/志歩/みのり/冬弥/寧々/奏の設計図（L）",
+    "id": 1868,
+    "resourceBoxType": "expand"
+  },
+  {
+    "assetbundleName": null,
+    "resourceBoxPurpose": "mission_reward",
     "name": "[DEEMO×Cytusシリーズ]タイアップ記念スタンプミッション",
     "id": 2044,
     "resourceBoxType": "expand"
@@ -182476,21 +182602,21 @@
     "resourceBoxType": "costume_3d"
   },
   {
-    "assetbundleName": "live_mission_20250801",
+    "assetbundleName": "live_mission_20260801",
     "resourceBoxPurpose": "mission_reward",
     "name": null,
     "id": 20260801,
     "resourceBoxType": "costume_3d"
   },
   {
-    "assetbundleName": "live_mission_20251001",
+    "assetbundleName": "live_mission_20261001",
     "resourceBoxPurpose": "mission_reward",
     "name": null,
     "id": 20261001,
     "resourceBoxType": "costume_3d"
   },
   {
-    "assetbundleName": "live_mission_20251201",
+    "assetbundleName": "live_mission_20261201",
     "resourceBoxPurpose": "mission_reward",
     "name": null,
     "id": 20261201,

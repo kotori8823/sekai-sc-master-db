@@ -5936,39 +5936,273 @@
     "mysekaiFixtureTagType": "none"
   },
   {
+    "id": 10911,
+    "name": "[限定风格 vol.2]咲希的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10912,
+    "name": "[限定风格 vol.2]咲希的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10913,
+    "name": "[限定风格 vol.2]咲希的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーさきのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10914,
+    "name": "[限定风格 vol.2]遥的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10915,
+    "name": "[限定风格 vol.2]遥的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10916,
+    "name": "[限定风格 vol.2]遥的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーはるかのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10917,
+    "name": "[限定风格 vol.2]杏的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10918,
+    "name": "[限定风格 vol.2]杏的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10919,
+    "name": "[限定风格 vol.2]杏的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーあんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10920,
+    "name": "[限定风格 vol.2]司的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10921,
+    "name": "[限定风格 vol.2]司的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10922,
+    "name": "[限定风格 vol.2]司的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーつかさのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10923,
+    "name": "[限定风格 vol.2]真冬的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10924,
+    "name": "[限定风格 vol.2]真冬的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10925,
+    "name": "[限定风格 vol.2]真冬的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーまふゆのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10926,
+    "name": "[限定风格 vol.2]未来的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10927,
+    "name": "[限定风格 vol.2]未来的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10928,
+    "name": "[限定风格 vol.2]未来的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみくのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10929,
+    "name": "[限定风格 vol.2]铃的玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10930,
+    "name": "[限定风格 vol.2]铃的玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10931,
+    "name": "[限定风格 vol.2]铃的玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーりんのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
     "id": 10947,
-    "name": "バースデーケーキ（穂波）",
+    "name": "生日蛋糕（穗波）",
     "pronunciation": "ばーすでーけーきほなみ",
     "mysekaiFixtureTagType": "none"
   },
   {
     "id": 10948,
-    "name": "バースデーバルーン（穂波）",
+    "name": "生日气球（穗波）",
     "pronunciation": "ばーすでーばるーんほなみ",
     "mysekaiFixtureTagType": "none"
   },
   {
     "id": 10949,
-    "name": "バースデーブーケ（穂波）",
+    "name": "生日花束（穗波）",
     "pronunciation": "ばーすでーぶーけほなみ",
     "mysekaiFixtureTagType": "none"
   },
   {
     "id": 10950,
-    "name": "バースデーガーランド（穂波）",
+    "name": "生日装饰拉花（穗波）",
     "pronunciation": "ばーすでーがーらんどほなみ",
     "mysekaiFixtureTagType": "none"
   },
   {
     "id": 10951,
-    "name": "バースデーチェア（穂波）",
+    "name": "生日椅子（穗波）",
     "pronunciation": "ばーすでーちぇあほなみ",
     "mysekaiFixtureTagType": "none"
   },
   {
     "id": 10952,
-    "name": "望月穂波BD '25",
+    "name": "望月穗波 生日'26",
     "pronunciation": "もちづきほなみばーすでーにじゅうご",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10965,
+    "name": "[限定风格 vol.2]志步玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10966,
+    "name": "[限定风格 vol.2]志步玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10967,
+    "name": "[限定风格 vol.2]志步玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーしほのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10968,
+    "name": "[限定风格 vol.2]实乃理玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10969,
+    "name": "[限定风格 vol.2]实乃理玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10970,
+    "name": "[限定风格 vol.2]实乃理玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーみのりのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10971,
+    "name": "[限定风格 vol.2]冬弥玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10972,
+    "name": "[限定风格 vol.2]冬弥玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10973,
+    "name": "[限定风格 vol.2]冬弥玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーとうやのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10974,
+    "name": "[限定风格 vol.2]宁宁玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10975,
+    "name": "[限定风格 vol.2]宁宁玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10976,
+    "name": "[限定风格 vol.2]宁宁玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーねねのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10977,
+    "name": "[限定风格 vol.2]奏玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10978,
+    "name": "[限定风格 vol.2]奏玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10979,
+    "name": "[限定风格 vol.2]奏玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかなでのぬいぐるみえる",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10980,
+    "name": "[限定风格 vol.2]KAITO玩偶/S",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえす",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10981,
+    "name": "[限定风格 vol.2]KAITO玩偶/M",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえむ",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10982,
+    "name": "[限定风格 vol.2]KAITO玩偶/L",
+    "pronunciation": "りみてっどすたいるぼりゅーむつーかいとのぬいぐるみえる",
     "mysekaiFixtureTagType": "none"
   },
   {

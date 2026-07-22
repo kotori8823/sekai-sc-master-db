@@ -2078,5 +2078,145 @@
     "endAt": 1783958399000,
     "appealReadConditionType": "transition",
     "text": "[夏日庆典]特惠礼包"
+  },
+  {
+    "id": 516,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1785643200000,
+    "endAt": 1786291199000,
+    "appealReadConditionType": "transition",
+    "text": "Sunshine！水晶商店特卖"
+  },
+  {
+    "id": 517,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1786161600000,
+    "endAt": 1787371199000,
+    "appealReadConditionType": "transition",
+    "text": "MORE MORE JUMP!新成员登场"
+  },
+  {
+    "id": 518,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1786377600000,
+    "endAt": 1786982399000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]星乃一歌登场"
+  },
+  {
+    "id": 519,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1787371200000,
+    "endAt": 1788062399000,
+    "appealReadConditionType": "transition",
+    "text": "瑞希、绘名、镜音铃登场"
+  },
+  {
+    "id": 520,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1787760000000,
+    "endAt": 1788364799000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]晓山瑞希登场"
+  },
+  {
+    "id": 521,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788105600000,
+    "endAt": 1788710399000,
+    "appealReadConditionType": "transition",
+    "text": "[纪念日]初音未来登场"
+  },
+  {
+    "id": 522,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788062400000,
+    "endAt": 1788667199000,
+    "appealReadConditionType": "transition",
+    "text": "司、笑梦、类登场"
+  },
+  {
+    "id": 523,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1785643200000,
+    "endAt": 1786291199000,
+    "appealReadConditionType": "transition",
+    "text": "★4双倍 · 自选"
+  },
+  {
+    "id": 524,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1785556800000,
+    "endAt": 1786766399000,
+    "appealReadConditionType": "transition",
+    "text": "真冬、一歌、初音未来再次登场"
+  },
+  {
+    "id": 525,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1786766400000,
+    "endAt": 1787975999000,
+    "appealReadConditionType": "transition",
+    "text": "穗波、咲希、笑梦再次登场"
+  },
+  {
+    "id": 526,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1787976000000,
+    "endAt": 1789185599000,
+    "appealReadConditionType": "transition",
+    "text": "爱莉、遥、雫再次登场"
+  },
+  {
+    "id": 527,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1786161600000,
+    "endAt": 1787371199000,
+    "appealReadConditionType": "transition",
+    "text": "华丽服装"
+  },
+  {
+    "id": 528,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1787371200000,
+    "endAt": 1788580799000,
+    "appealReadConditionType": "transition",
+    "text": "美式休闲服装"
+  },
+  {
+    "id": 529,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1786766400000,
+    "endAt": 1788148799000,
+    "appealReadConditionType": "transition",
+    "text": "拓麻歌子联动成员登场"
   }
 ]
