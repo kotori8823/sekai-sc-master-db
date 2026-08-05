@@ -506,6 +506,20 @@
     ]
   },
   {
+    "id": 132,
+    "startAt": 1786766400000,
+    "endAt": 1788191999000,
+    "assetbundleName": "egg_collab_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 275,
+        "limitedLoginBonusId": 132,
+        "day": 1,
+        "resourceBoxId": 172
+      }
+    ]
+  },
+  {
     "id": 137,
     "startAt": 1790697600000,
     "endAt": 1790798399000,

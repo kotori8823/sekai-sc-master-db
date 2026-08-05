@@ -11255,6 +11255,384 @@
     ]
   },
   {
+    "id": 10,
+    "name": "[初音未来：缤纷舞台×拓麻歌子]联动纪念印章任务",
+    "assetbundleName": "tamagotchi_collab_2025_pm",
+    "bgmAssetbundleName": "tamagotchi_collab_2025_pm_bgm",
+    "selectableLimit": 3,
+    "startAt": 1786766400000,
+    "progressEndAt": 1788191999000,
+    "closedAt": 1788623999000,
+    "distributionEndAt": 1789833599000,
+    "informationId": 10784,
+    "panelMissionSelectionType": "auto",
+    "panelMissionSheetGroups": [
+      {
+        "id": 1001,
+        "panelMissionCampaignId": 10,
+        "name": "登录",
+        "selectableLimit": 1,
+        "seq": 1,
+        "panelMissionSheets": [
+          {
+            "id": 100101,
+            "panelMissionSheetGroupId": 1001,
+            "name": "登录卡",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_login",
+            "panelMissions": [
+              {
+                "id": 10010101,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n1天",
+                "description": "累计登录1天。",
+                "seq": 1,
+                "panelMissionType": "login",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010102,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n2天",
+                "description": "累计登录2天。",
+                "seq": 2,
+                "panelMissionType": "login",
+                "requirement1": 2,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010103,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n3天",
+                "description": "累计登录3天。",
+                "seq": 3,
+                "panelMissionType": "login",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010104,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n4天",
+                "description": "累计登录4天。",
+                "seq": 4,
+                "panelMissionType": "login",
+                "requirement1": 4,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010105,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n5天",
+                "description": "累计登录5天。",
+                "seq": 5,
+                "panelMissionType": "login",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010106,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n6天",
+                "description": "累计登录6天。",
+                "seq": 6,
+                "panelMissionType": "login",
+                "requirement1": 7,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10010107,
+                "panelMissionSheetId": 100101,
+                "name": "累计登录\n7天",
+                "description": "累计登录7天。",
+                "seq": 7,
+                "panelMissionType": "login",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1785
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "panelMissionCampaignId": 10,
+        "name": "演出",
+        "selectableLimit": 1,
+        "seq": 2,
+        "panelMissionSheets": [
+          {
+            "id": 100201,
+            "panelMissionSheetGroupId": 1002,
+            "name": "演出卡",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_live",
+            "panelMissions": [
+              {
+                "id": 10020101,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n1次演出",
+                "description": "累计完成1次演出。\n*自动演出也纳入计算范围。",
+                "seq": 1,
+                "panelMissionType": "live_clear",
+                "requirement1": 1,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020102,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n3次演出",
+                "description": "累计完成3次演出。\n*自动演出也纳入计算范围。",
+                "seq": 2,
+                "panelMissionType": "live_clear",
+                "requirement1": 3,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020103,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n5次演出",
+                "description": "累计完成5次演出。\n*自动演出也纳入计算范围。",
+                "seq": 3,
+                "panelMissionType": "live_clear",
+                "requirement1": 5,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10020104,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n10次演出",
+                "description": "累计完成10次演出。\n*自动演出也纳入计算范围。",
+                "seq": 4,
+                "panelMissionType": "live_clear",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020105,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n15次演出",
+                "description": "累计完成15次演出。\n*自动演出也纳入计算范围。",
+                "seq": 5,
+                "panelMissionType": "live_clear",
+                "requirement1": 15,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020106,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n20次演出",
+                "description": "累计完成20次演出。\n*自动演出也纳入计算范围。",
+                "seq": 6,
+                "panelMissionType": "live_clear",
+                "requirement1": 20,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10020107,
+                "panelMissionSheetId": 100201,
+                "name": "累计完成\n30次演出",
+                "description": "累计完成30次演出。\n*自动演出也纳入计算范围。",
+                "seq": 7,
+                "panelMissionType": "live_clear",
+                "requirement1": 30,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1786
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "panelMissionCampaignId": 10,
+        "name": "我的「世界」",
+        "selectableLimit": 1,
+        "seq": 3,
+        "panelMissionSheets": [
+          {
+            "id": 100301,
+            "panelMissionSheetGroupId": 1003,
+            "name": "我的「世界」卡",
+            "seq": 1,
+            "assetbundleName": "sheet_tamagotchi_collab_mysekai",
+            "panelMissions": [
+              {
+                "id": 10030101,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n10个材料。",
+                "description": "在我的「世界」采集10个材料。",
+                "seq": 1,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 10,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10030102,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n50个材料。",
+                "description": "在我的「世界」采集50个材料。",
+                "seq": 2,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 50,
+                "rewards": [
+                  [
+                    1783
+                  ]
+                ]
+              },
+              {
+                "id": 10030103,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n100个材料。",
+                "description": "在我的「世界」采集100个材料。",
+                "seq": 3,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 100,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030104,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n300个材料。",
+                "description": "在我的「世界」采集300个材料。",
+                "seq": 4,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 300,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030105,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n500个材料。",
+                "description": "在我的「世界」采集500个材料。",
+                "seq": 5,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 500,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030106,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n700个材料。",
+                "description": "在我的「世界」采集700个材料。",
+                "seq": 6,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 700,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              },
+              {
+                "id": 10030107,
+                "panelMissionSheetId": 100301,
+                "name": "在我的「世界」采集\n1000个材料。",
+                "description": "在我的「世界」采集1000个材料。",
+                "seq": 7,
+                "panelMissionType": "mysekai_gather_any_mysekai_material",
+                "requirement1": 1000,
+                "rewards": [
+                  [
+                    1784
+                  ]
+                ]
+              }
+            ],
+            "rewards": [
+              [
+                1787
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 15,
     "name": "[DEEMO×Cytus系列]联动纪念印章任务",
     "assetbundleName": "dc_tieup_pm",
