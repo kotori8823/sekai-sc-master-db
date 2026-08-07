@@ -105,6 +105,7 @@ jobs:
         shell: python
         run: |
           import os, requests, json
+          import sys
           bucket_name = os.environ["B2_BUCKET_NAME"]
 
           targets = [
@@ -124,12 +125,27 @@ jobs:
           
           payload = { "prefixes": targets }
           
+          # ⚠️ purge 失败必须红灯。master 正文在 CF 上是 max-age=2678400（31 天）、
+          # last-modified 恒为 2000-01-01 哨兵（边缘无法条件回源）：这一步静默失败
+          # 就等于整棵 sekai-db/<region>/ 停在旧版本最长 31 天，而工作流全程绿灯。
+          # （前端那侧已经带上 ?v=data_version 兜住浏览器，但服务端读取方仍吃这一刀。）
           try:
-              resp = requests.post(url, headers=headers, json=payload)
-              print(f"Status: {resp.status_code}")
-              print(resp.text)
+              resp = requests.post(url, headers=headers, json=payload, timeout=30)
           except Exception as e:
-              print(f"Error: {e}")
+              print(f"::error::CF purge 请求失败: {e}")
+              sys.exit(1)
+          print(f"Status: {resp.status_code}")
+          print(resp.text)
+          ok = False
+          if resp.status_code == 200:
+              try:
+                  ok = bool(resp.json().get("success"))
+              except Exception:
+                  ok = False
+          if not ok:
+              print("::error::CF purge 未成功（HTTP 或 success 字段不对）——"
+                    "CDN 会继续发旧 master，必须人工确认后重跑")
+              sys.exit(1)
 
       - name: Purge Tencent EdgeOne
         env:
