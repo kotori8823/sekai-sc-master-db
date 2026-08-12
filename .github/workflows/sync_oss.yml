@@ -63,7 +63,8 @@ jobs:
         run: |
           rclone sync . b2:${{ secrets.B2_BUCKET_NAME }}/pjsk/sekai-db/cn \
             --verbose --transfers 32 --checkers 64 \
-            --exclude ".git/**" --exclude ".github/**"
+            --exclude ".git/**" --exclude ".github/**" \
+            --contimeout 10s --timeout 120s --retries 2 --low-level-retries 3
             
       - name: Sync to R2
         env:
@@ -78,7 +79,8 @@ jobs:
             --transfers 32 \
             --checkers 64 \
             --exclude ".git/**" \
-            --exclude ".github/**"
+            --exclude ".github/**" \
+            --contimeout 10s --timeout 120s --retries 2 --low-level-retries 3
 
       - name: Sync to Tencent OSS
         env:
@@ -90,7 +92,8 @@ jobs:
         run: |
           rclone sync . tencent:${{ secrets.OSS_BUCKET }}/sekai-db/cn \
             --verbose --transfers 32 --checkers 64 \
-            --exclude ".git/**" --exclude ".github/**"
+            --exclude ".git/**" --exclude ".github/**" \
+            --contimeout 10s --timeout 120s --retries 2 --low-level-retries 3
 
       # ========================================================
       # 阶段 2: CDN 缓存清理 (Directory Purge)
