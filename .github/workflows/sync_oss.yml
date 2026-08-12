@@ -3,6 +3,12 @@ name: Sync & Purge Directories
 on:
   push:
     branches: [ "master", "main" ]
+    # 改工作流/README 不该触发一次全量同步。
+    # 2026-08-12：给三条 rclone 补超时旗标时推了个纯 .github 改动，这里没这道闸门，
+    # 于是照样跑了一次完整 CDN 同步 —— kr/gl 两个库早就有这两行，jp/sc/tc 漏了。
+    paths-ignore:
+      - ".github/**"
+      - "README.md"
   workflow_dispatch:
 
 jobs:
