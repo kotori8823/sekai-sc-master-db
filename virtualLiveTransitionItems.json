@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "纪念档案（1.5th Anniversary Special Message：一歌）",
+    "flavorText": "可用来回顾一歌“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_01",
+    "virtualLiveId": 400
+  },
+  {
+    "id": 2,
+    "name": "纪念档案（1.5th Anniversary Special Message：咲希）",
+    "flavorText": "可用来回顾咲希“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_02",
+    "virtualLiveId": 401
+  },
+  {
+    "id": 3,
+    "name": "纪念档案（1.5th Anniversary Special Message：穗波）",
+    "flavorText": "可用来回顾穗波“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_03",
+    "virtualLiveId": 402
+  },
+  {
+    "id": 4,
+    "name": "纪念档案（1.5th Anniversary Special Message：志步）",
+    "flavorText": "可用来回顾志步“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_04",
+    "virtualLiveId": 403
+  },
+  {
+    "id": 5,
+    "name": "纪念档案（1.5th Anniversary Special Message：实乃理）",
+    "flavorText": "可用来回顾实乃理“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_05",
+    "virtualLiveId": 404
+  },
+  {
+    "id": 6,
+    "name": "纪念档案（1.5th Anniversary Special Message：遥）",
+    "flavorText": "可用来回顾遥“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_06",
+    "virtualLiveId": 405
+  },
+  {
+    "id": 7,
+    "name": "纪念档案（1.5th Anniversary Special Message：爱莉）",
+    "flavorText": "可用来回顾爱莉“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_07",
+    "virtualLiveId": 406
+  },
+  {
+    "id": 8,
+    "name": "纪念档案（1.5th Anniversary Special Message：雫）",
+    "flavorText": "可用来回顾雫“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_08",
+    "virtualLiveId": 407
+  },
+  {
+    "id": 9,
+    "name": "纪念档案（1.5th Anniversary Special Message：心羽）",
+    "flavorText": "可用来回顾心羽“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_09",
+    "virtualLiveId": 408
+  },
+  {
+    "id": 10,
+    "name": "纪念档案（1.5th Anniversary Special Message：杏）",
+    "flavorText": "可用来回顾杏“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_10",
+    "virtualLiveId": 409
+  },
+  {
+    "id": 11,
+    "name": "纪念档案（1.5th Anniversary Special Message：彰人）",
+    "flavorText": "可用来回顾彰人“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_11",
+    "virtualLiveId": 410
+  },
+  {
+    "id": 12,
+    "name": "纪念档案（1.5th Anniversary Special Message：冬弥）",
+    "flavorText": "可用来回顾冬弥“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_12",
+    "virtualLiveId": 411
+  },
+  {
+    "id": 13,
+    "name": "纪念档案（1.5th Anniversary Special Message：司）",
+    "flavorText": "可用来回顾司“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_13",
+    "virtualLiveId": 412
+  },
+  {
+    "id": 14,
+    "name": "纪念档案（1.5th Anniversary Special Message：笑梦）",
+    "flavorText": "可用来回顾笑梦“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_14",
+    "virtualLiveId": 413
+  },
+  {
+    "id": 15,
+    "name": "纪念档案（1.5th Anniversary Special Message：宁宁）",
+    "flavorText": "可用来回顾宁宁“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_15",
+    "virtualLiveId": 414
+  },
+  {
+    "id": 16,
+    "name": "纪念档案（1.5th Anniversary Special Message：类）",
+    "flavorText": "可用来回顾类“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_16",
+    "virtualLiveId": 415
+  },
+  {
+    "id": 17,
+    "name": "纪念档案（1.5th Anniversary Special Message：奏）",
+    "flavorText": "可用来回顾奏“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_17",
+    "virtualLiveId": 416
+  },
+  {
+    "id": 18,
+    "name": "纪念档案（1.5th Anniversary Special Message：真冬）",
+    "flavorText": "可用来回顾真冬“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_18",
+    "virtualLiveId": 417
+  },
+  {
+    "id": 19,
+    "name": "纪念档案（1.5th Anniversary Special Message：绘名）",
+    "flavorText": "可用来回顾绘名“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_19",
+    "virtualLiveId": 418
+  },
+  {
+    "id": 20,
+    "name": "纪念档案（1.5th Anniversary Special Message：瑞希）",
+    "flavorText": "可用来回顾瑞希“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_20",
+    "virtualLiveId": 419
+  },
+  {
+    "id": 21,
+    "name": "纪念档案（1.5th Anniversary Special Message：初音未来）",
+    "flavorText": "可用来回顾初音未来“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_21",
+    "virtualLiveId": 420
+  },
+  {
+    "id": 22,
+    "name": "纪念档案（1.5th Anniversary Special Message：镜音铃）",
+    "flavorText": "可用来回顾镜音铃“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_22",
+    "virtualLiveId": 421
+  },
+  {
+    "id": 23,
+    "name": "纪念档案（1.5th Anniversary Special Message：镜音连）",
+    "flavorText": "可用来回顾镜音连“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_23",
+    "virtualLiveId": 422
+  },
+  {
+    "id": 24,
+    "name": "纪念档案（1.5th Anniversary Special Message：巡音流歌）",
+    "flavorText": "可用来回顾巡音流歌“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_24",
+    "virtualLiveId": 423
+  },
+  {
+    "id": 25,
+    "name": "纪念档案（1.5th Anniversary Special Message：MEIKO）",
+    "flavorText": "可用来回顾MEIKO“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_25",
+    "virtualLiveId": 424
+  },
+  {
+    "id": 26,
+    "name": "纪念档案（1.5th Anniversary Special Message：KAITO）",
+    "flavorText": "可用来回顾KAITO“1.5th Anniversary Special Message”的道具。",
+    "assetbundleName": "memory_peace_5th_26",
+    "virtualLiveId": 425
+  }
+]

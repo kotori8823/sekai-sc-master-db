@@ -1280,6 +1280,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 282,
+    "gachaId": 464,
+    "name": "[复刻]Grace Marriage招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1794196799000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 283,
     "gachaId": 465,
     "name": "[复刻]Knights of White招募贴纸",
@@ -2077,6 +2085,14 @@
     "name": "[复刻]Eternal Bout招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1785729599000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 429,
+    "gachaId": 735,
+    "name": "[复刻]Grow up with me！招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1792987199000,
     "convertResourceBoxId": 2
   },
   {

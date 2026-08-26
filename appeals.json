@@ -2117,7 +2117,7 @@
     "startAt": 1787371200000,
     "endAt": 1788062399000,
     "appealReadConditionType": "transition",
-    "text": "瑞希、绘名、镜音铃登场"
+    "text": "瑞希、绘名、镜音连登场"
   },
   {
     "id": 520,
@@ -2218,5 +2218,205 @@
     "endAt": 1788148799000,
     "appealReadConditionType": "transition",
     "text": "拓麻歌子联动成员登场"
+  },
+  {
+    "id": 530,
+    "seq": 3,
+    "appealTargetType": "billing_shop",
+    "appealType": "once",
+    "startAt": 1787889600000,
+    "endAt": 1788407999000,
+    "appealReadConditionType": "transition",
+    "text": "魔法未来服装复刻"
+  },
+  {
+    "id": 531,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1787889600000,
+    "endAt": 1788407999000,
+    "appealReadConditionType": "transition",
+    "text": "魔法未来2026"
+  },
+  {
+    "id": 532,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788494400000,
+    "endAt": 1789315199000,
+    "appealReadConditionType": "transition",
+    "text": "★4出率10%"
+  },
+  {
+    "id": 533,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788580800000,
+    "endAt": 1789790399000,
+    "appealReadConditionType": "transition",
+    "text": "雨天服装"
+  },
+  {
+    "id": 534,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1789790400000,
+    "endAt": 1790999999000,
+    "appealReadConditionType": "transition",
+    "text": "T恤服装"
+  },
+  {
+    "id": 535,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1789185600000,
+    "endAt": 1790395199000,
+    "appealReadConditionType": "transition",
+    "text": "一歌、实乃理、司、奏再次登场"
+  },
+  {
+    "id": 536,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790395200000,
+    "endAt": 1791604799000,
+    "appealReadConditionType": "transition",
+    "text": "杏、雫、MEIKO再次登场"
+  },
+  {
+    "id": 537,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788667200000,
+    "endAt": 1789891199000,
+    "appealReadConditionType": "transition",
+    "text": "虚拟歌手新成员登场"
+  },
+  {
+    "id": 538,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1788883200000,
+    "endAt": 1789487999000,
+    "appealReadConditionType": "transition",
+    "text": "[生日]凤笑梦登场"
+  },
+  {
+    "id": 539,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1789790400000,
+    "endAt": 1789891199000,
+    "appealReadConditionType": "transition",
+    "text": "Vivid BAD SQUAD组合活动限定"
+  },
+  {
+    "id": 540,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1789876800000,
+    "endAt": 1789963199000,
+    "appealReadConditionType": "transition",
+    "text": "Wonderlands×Showtime组合活动限定"
+  },
+  {
+    "id": 541,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1789963200000,
+    "endAt": 1790049599000,
+    "appealReadConditionType": "transition",
+    "text": "25点，Nightcord见。组合活动限定"
+  },
+  {
+    "id": 542,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790049600000,
+    "endAt": 1790135999000,
+    "appealReadConditionType": "transition",
+    "text": "Leo/need组合活动限定"
+  },
+  {
+    "id": 543,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790136000000,
+    "endAt": 1790222399000,
+    "appealReadConditionType": "transition",
+    "text": "MORE MORE JUMP！组合活动限定"
+  },
+  {
+    "id": 544,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790222400000,
+    "endAt": 1790308799000,
+    "appealReadConditionType": "transition",
+    "text": "虚拟歌手组合活动限定"
+  },
+  {
+    "id": 545,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790222400000,
+    "endAt": 1790481599000,
+    "appealReadConditionType": "transition",
+    "text": "额外奖励机会"
+  },
+  {
+    "id": 546,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790481600000,
+    "endAt": 1791086399000,
+    "appealReadConditionType": "transition",
+    "text": "绚烂节日限定成员登场"
+  },
+  {
+    "id": 547,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790481600000,
+    "endAt": 1791086399000,
+    "appealReadConditionType": "transition",
+    "text": "★4双倍 · 自选"
+  },
+  {
+    "id": 548,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790481600000,
+    "endAt": 1791691199000,
+    "appealReadConditionType": "transition",
+    "text": "1.5周年限定服装"
+  },
+  {
+    "id": 549,
+    "seq": 3,
+    "appealTargetType": "gacha",
+    "appealType": "daily_once",
+    "startAt": 1790481600000,
+    "endAt": 1791691199000,
+    "appealReadConditionType": "transition",
+    "text": "★4自选"
   }
 ]

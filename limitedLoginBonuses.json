@@ -1360,6 +1360,20 @@
     ]
   },
   {
+    "id": 220,
+    "startAt": 1787889600000,
+    "endAt": 1788105599000,
+    "assetbundleName": "magicalmirai_2026",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 398,
+        "limitedLoginBonusId": 220,
+        "day": 1,
+        "resourceBoxId": 246
+      }
+    ]
+  },
+  {
     "id": 1058,
     "startAt": 1740794400000,
     "endAt": 1749931199000,
@@ -4102,6 +4116,20 @@
         "limitedLoginBonusId": 1183,
         "day": 1,
         "resourceBoxId": 2171
+      }
+    ]
+  },
+  {
+    "id": 1184,
+    "startAt": 1788235200000,
+    "endAt": 1789315199000,
+    "assetbundleName": "cn0901_26",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1460,
+        "limitedLoginBonusId": 1184,
+        "day": 1,
+        "resourceBoxId": 2172
       }
     ]
   },

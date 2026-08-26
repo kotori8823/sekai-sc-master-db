@@ -52723,6 +52723,7 @@
     "materialExchangeType": "normal",
     "Name": "闪耀徽章",
     "assetbundleName": "icon_shining_badge",
+    "StartAt": 1664467200000,
     "MaterialExchanges": {},
     "materialExchangeDisplayResourceGroups": {}
   },
@@ -52733,6 +52734,7 @@
     "materialExchangeType": "normal",
     "Name": "[往期活动]\n★2成员",
     "assetbundleName": "icon_memberTicket_star2",
+    "StartAt": 1664467200000,
     "MaterialExchanges": [
       {
         "id": 1000001,
@@ -55124,6 +55126,7 @@
     "materialExchangeType": "normal",
     "Name": "[往期活动]\n★3成员",
     "assetbundleName": "icon_memberTicket_star3",
+    "StartAt": 1664467200000,
     "MaterialExchanges": [
       {
         "id": 1000105,

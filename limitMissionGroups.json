@@ -82,5 +82,14 @@
     "endAt": 1783958399000,
     "assetbundleName": "limitmission_miku_25",
     "distributionEndAt": 1784001599000
+  },
+  {
+    "id": 31,
+    "keyMissionId": 195,
+    "startAt": 1787860800000,
+    "endAt": 1788613199000,
+    "assetbundleName": "limitmission_miku_25",
+    "iconAssetbundleName": "limitmission_chuyin",
+    "distributionEndAt": 1788656399000
   }
 ]

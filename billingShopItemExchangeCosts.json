@@ -2010,6 +2010,30 @@
     "quantity": 1500
   },
   {
+    "billingShopItemId": 51142,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 320
+  },
+  {
+    "billingShopItemId": 51143,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1800
+  },
+  {
+    "billingShopItemId": 51144,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 3000
+  },
+  {
+    "billingShopItemId": 51145,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 3000
+  },
+  {
     "billingShopItemId": 400001,
     "resourceType": "material",
     "resourceId": 1008,
