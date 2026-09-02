@@ -11540,7 +11540,7 @@
               {
                 "id": 10030101,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n10个材料。",
+                "name": "在我的「世界」采集\n10个材料",
                 "description": "在我的「世界」采集10个材料。",
                 "seq": 1,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11554,7 +11554,7 @@
               {
                 "id": 10030102,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n50个材料。",
+                "name": "在我的「世界」采集\n50个材料",
                 "description": "在我的「世界」采集50个材料。",
                 "seq": 2,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11568,7 +11568,7 @@
               {
                 "id": 10030103,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n100个材料。",
+                "name": "在我的「世界」采集\n100个材料",
                 "description": "在我的「世界」采集100个材料。",
                 "seq": 3,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11582,7 +11582,7 @@
               {
                 "id": 10030104,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n300个材料。",
+                "name": "在我的「世界」采集\n300个材料",
                 "description": "在我的「世界」采集300个材料。",
                 "seq": 4,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11596,7 +11596,7 @@
               {
                 "id": 10030105,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n500个材料。",
+                "name": "在我的「世界」采集\n500个材料",
                 "description": "在我的「世界」采集500个材料。",
                 "seq": 5,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11610,7 +11610,7 @@
               {
                 "id": 10030106,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n700个材料。",
+                "name": "在我的「世界」采集\n700个材料",
                 "description": "在我的「世界」采集700个材料。",
                 "seq": 6,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
@@ -11624,7 +11624,7 @@
               {
                 "id": 10030107,
                 "panelMissionSheetId": 100301,
-                "name": "在我的「世界」采集\n1000个材料。",
+                "name": "在我的「世界」采集\n1000个材料",
                 "description": "在我的「世界」采集1000个材料。",
                 "seq": 7,
                 "panelMissionType": "mysekai_gather_any_mysekai_material",
