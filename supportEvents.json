@@ -1,6 +1,8 @@
 [
   {
     "id": 5,
+    "eventType": "v1",
+    "turn": 0,
     "assetbundleName": "event_support_2022",
     "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
     "startAt": 1759464000000,
@@ -1232,10 +1234,13 @@
         "unitScore": 390000,
         "resourceBoxId": 534
       }
-    ]
+    ],
+    "maxJumpPoint": 0
   },
   {
     "id": 6,
+    "eventType": "v1",
+    "turn": 0,
     "assetbundleName": "event_support_2022",
     "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
     "startAt": 1771041600000,
@@ -2467,6 +2472,490 @@
         "unitScore": 390000,
         "resourceBoxId": 642
       }
-    ]
+    ],
+    "maxJumpPoint": 0
+  },
+  {
+    "id": 101,
+    "eventType": "v2",
+    "turn": 6,
+    "assetbundleName": "event_support_2022",
+    "bgmAssetbundleName": "event/event_support_2022/bgm/event_support_2022_top",
+    "startAt": 1790222400000,
+    "aggregateAt": 1791118799000,
+    "closeAt": 1791464399000,
+    "totalScoreRewards": [
+      {
+        "id": 253,
+        "unit": "piapro",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 254,
+        "unit": "piapro",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 255,
+        "unit": "piapro",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 256,
+        "unit": "piapro",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 257,
+        "unit": "piapro",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 258,
+        "unit": "piapro",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 259,
+        "unit": "piapro",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      },
+      {
+        "id": 260,
+        "unit": "theme_park",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 261,
+        "unit": "theme_park",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 262,
+        "unit": "theme_park",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 263,
+        "unit": "theme_park",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 264,
+        "unit": "theme_park",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 265,
+        "unit": "theme_park",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 266,
+        "unit": "theme_park",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      },
+      {
+        "id": 267,
+        "unit": "idol",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 268,
+        "unit": "idol",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 269,
+        "unit": "idol",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 270,
+        "unit": "idol",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 271,
+        "unit": "idol",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 272,
+        "unit": "idol",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 273,
+        "unit": "idol",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      },
+      {
+        "id": 274,
+        "unit": "street",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 275,
+        "unit": "street",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 276,
+        "unit": "street",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 277,
+        "unit": "street",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 278,
+        "unit": "street",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 279,
+        "unit": "street",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 280,
+        "unit": "street",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      },
+      {
+        "id": 281,
+        "unit": "light_sound",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 282,
+        "unit": "light_sound",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 283,
+        "unit": "light_sound",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 284,
+        "unit": "light_sound",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 285,
+        "unit": "light_sound",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 286,
+        "unit": "light_sound",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 287,
+        "unit": "light_sound",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      },
+      {
+        "id": 288,
+        "unit": "school_refusal",
+        "unitScore": 100000,
+        "resourceBoxId": 100
+      },
+      {
+        "id": 289,
+        "unit": "school_refusal",
+        "unitScore": 800000,
+        "resourceBoxId": 101
+      },
+      {
+        "id": 290,
+        "unit": "school_refusal",
+        "unitScore": 2000000,
+        "resourceBoxId": 102
+      },
+      {
+        "id": 291,
+        "unit": "school_refusal",
+        "unitScore": 3900000,
+        "resourceBoxId": 103
+      },
+      {
+        "id": 292,
+        "unit": "school_refusal",
+        "unitScore": 8000000,
+        "resourceBoxId": 104
+      },
+      {
+        "id": 293,
+        "unit": "school_refusal",
+        "unitScore": 6000000,
+        "resourceBoxId": 105
+      },
+      {
+        "id": 294,
+        "unit": "school_refusal",
+        "unitScore": 10000000,
+        "resourceBoxId": 106
+      }
+    ],
+    "v2MapTiles": [
+      {
+        "tileId": 1,
+        "giftTileId": 15,
+        "x": 0,
+        "y": -300
+      },
+      {
+        "tileId": 2,
+        "giftTileId": 3,
+        "x": -75,
+        "y": -300
+      },
+      {
+        "tileId": 3,
+        "giftTileId": 1,
+        "x": -150,
+        "y": -300
+      },
+      {
+        "tileId": 4,
+        "giftTileId": 5,
+        "x": -150,
+        "y": -225
+      },
+      {
+        "tileId": 5,
+        "giftTileId": 3,
+        "x": -225,
+        "y": -225
+      },
+      {
+        "tileId": 6,
+        "giftTileId": 2,
+        "x": -300,
+        "y": -225
+      },
+      {
+        "tileId": 7,
+        "giftTileId": 12,
+        "x": -300,
+        "y": -150
+      },
+      {
+        "tileId": 8,
+        "giftTileId": 4,
+        "x": -375,
+        "y": -150
+      },
+      {
+        "tileId": 9,
+        "giftTileId": 2,
+        "x": -375,
+        "y": -75
+      },
+      {
+        "tileId": 10,
+        "giftTileId": 4,
+        "x": -375,
+        "y": 0
+      },
+      {
+        "tileId": 11,
+        "giftTileId": 2,
+        "x": -300,
+        "y": 0
+      },
+      {
+        "tileId": 12,
+        "giftTileId": 3,
+        "x": -300,
+        "y": 75
+      },
+      {
+        "tileId": 13,
+        "giftTileId": 13,
+        "x": -300,
+        "y": 150
+      },
+      {
+        "tileId": 14,
+        "giftTileId": 2,
+        "x": -300,
+        "y": 225
+      },
+      {
+        "tileId": 15,
+        "giftTileId": 6,
+        "x": -225,
+        "y": 225
+      },
+      {
+        "tileId": 16,
+        "giftTileId": 3,
+        "x": -225,
+        "y": 300
+      },
+      {
+        "tileId": 17,
+        "giftTileId": 9,
+        "x": -150,
+        "y": 300
+      },
+      {
+        "tileId": 18,
+        "giftTileId": 3,
+        "x": -75,
+        "y": 300
+      },
+      {
+        "tileId": 19,
+        "giftTileId": 4,
+        "x": -75,
+        "y": 225
+      },
+      {
+        "tileId": 20,
+        "giftTileId": 2,
+        "x": 0,
+        "y": 225
+      },
+      {
+        "tileId": 21,
+        "giftTileId": 4,
+        "x": 75,
+        "y": 225
+      },
+      {
+        "tileId": 22,
+        "giftTileId": 3,
+        "x": 150,
+        "y": 225
+      },
+      {
+        "tileId": 23,
+        "giftTileId": 14,
+        "x": 225,
+        "y": 225
+      },
+      {
+        "tileId": 24,
+        "giftTileId": 3,
+        "x": 300,
+        "y": 225
+      },
+      {
+        "tileId": 25,
+        "giftTileId": 5,
+        "x": 300,
+        "y": 150
+      },
+      {
+        "tileId": 26,
+        "giftTileId": 2,
+        "x": 375,
+        "y": 150
+      },
+      {
+        "tileId": 27,
+        "giftTileId": 4,
+        "x": 375,
+        "y": 75
+      },
+      {
+        "tileId": 28,
+        "giftTileId": 3,
+        "x": 375,
+        "y": 0
+      },
+      {
+        "tileId": 29,
+        "giftTileId": 6,
+        "x": 375,
+        "y": -75
+      },
+      {
+        "tileId": 30,
+        "giftTileId": 2,
+        "x": 375,
+        "y": -150
+      },
+      {
+        "tileId": 31,
+        "giftTileId": 2,
+        "x": 300,
+        "y": -150
+      },
+      {
+        "tileId": 32,
+        "giftTileId": 3,
+        "x": 225,
+        "y": -150
+      },
+      {
+        "tileId": 33,
+        "giftTileId": 3,
+        "x": 225,
+        "y": -225
+      },
+      {
+        "tileId": 34,
+        "giftTileId": 5,
+        "x": 225,
+        "y": -300
+      },
+      {
+        "tileId": 35,
+        "giftTileId": 2,
+        "x": 150,
+        "y": -300
+      },
+      {
+        "tileId": 36,
+        "giftTileId": 4,
+        "x": 75,
+        "y": -300
+      }
+    ],
+    "maxJumpPoint": 3
   }
 ]

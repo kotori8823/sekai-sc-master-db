@@ -378,7 +378,7 @@
     "requiredConvertFixtureLevel": 1,
     "convertMinutes": 60,
     "refreshCycle": "none",
-    "startAt": 1790697600000,
+    "startAt": 1790438400000,
     "endAt": 1792900799000,
     "onceConvertLimit": 1
   },
@@ -391,7 +391,7 @@
     "requiredConvertFixtureLevel": 1,
     "convertMinutes": 30,
     "refreshCycle": "none",
-    "startAt": 1790697600000,
+    "startAt": 1790438400000,
     "endAt": 1792900799000,
     "onceConvertLimit": 100
   },

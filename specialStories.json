@@ -995,8 +995,8 @@
   {
     "id": 58,
     "assetbundleName": "5th-anniversary-login-story",
-    "startAt": 1790697600000,
-    "endAt": 1791734399000,
+    "startAt": 1790438400000,
+    "endAt": 1791475199000,
     "episodes": [
       {
         "id": 63,
@@ -1016,8 +1016,8 @@
   {
     "id": 59,
     "assetbundleName": "5th-anniversary-special_login-message",
-    "startAt": 1791734400000,
-    "endAt": 1793462399000,
+    "startAt": 1791475200000,
+    "endAt": 1793203199000,
     "episodes": [
       {
         "id": 64,
@@ -1033,6 +1033,134 @@
         "rewardResourceBoxIds": [
           134
         ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1801800000000,
+    "endAt": 1803052799000,
+    "episodes": [
+      {
+        "id": 67,
+        "specialStoryId": 62,
+        "episodeNo": 1,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "assetbundleName": "collaboration-sanrio-story",
+    "startAt": 1803052800000,
+    "endAt": 1803139199000,
+    "episodes": [
+      {
+        "id": 68,
+        "specialStoryId": 63,
+        "episodeNo": 1,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_sanrio",
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1806508800000,
+    "endAt": 1806595199000,
+    "episodes": [
+      {
+        "id": 69,
+        "specialStoryId": 64,
+        "episodeNo": 1,
+        "title": "愚人节2027前导动画",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "assetbundleName": "aprilfool-story-2026",
+    "startAt": 1806595200000,
+    "endAt": 1806681599000,
+    "episodes": [
+      {
+        "id": 70,
+        "specialStoryId": 65,
+        "episodeNo": 1,
+        "title": "愚人节2027后日谈动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2026",
+        "scenarioId": "aprilfool_2026_02",
+        "releaseConditionId": 1000400,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1807588800000,
+    "endAt": 1808841599000,
+    "episodes": [
+      {
+        "id": 71,
+        "specialStoryId": 66,
+        "episodeNo": 1,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1808841600000,
+    "endAt": 1808927999000,
+    "episodes": [
+      {
+        "id": 72,
+        "specialStoryId": 67,
+        "episodeNo": 1,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
       }
     ]
   }

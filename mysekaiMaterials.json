@@ -821,6 +821,18 @@
     "mysekaiSiteIds": []
   },
   {
+    "id": 70,
+    "seq": 704,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "志步的祝福之花",
+    "pronunciation": "しほのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝志步生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_4",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop104",
+    "mysekaiSiteIds": []
+  },
+  {
     "id": 72,
     "seq": 706,
     "mysekaiMaterialType": "birthday_party",
@@ -830,6 +842,138 @@
     "mysekaiMaterialRarityType": "rarity_2",
     "iconAssetbundleName": "item_birthday_flower_6",
     "modelAssetbundleName": "mdl_site_birthday_flowerdrop106",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 73,
+    "seq": 707,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "爱莉的祝福之花",
+    "pronunciation": "あいりのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝爱莉生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_7",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop107",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 74,
+    "seq": 708,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "雫的祝福之花",
+    "pronunciation": "しずくのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝雫生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_8",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop108",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 75,
+    "seq": 709,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "心羽的祝福之花",
+    "pronunciation": "こはねのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝心羽生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_9",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop109",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 77,
+    "seq": 711,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "彰人的祝福之花",
+    "pronunciation": "あきとのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝彰人生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_11",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop111",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 83,
+    "seq": 717,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "奏的祝福之花",
+    "pronunciation": "かなでのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝奏生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_17",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop117",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 84,
+    "seq": 718,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "真冬的祝福之花",
+    "pronunciation": "まふゆのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝真冬生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_18",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop118",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 88,
+    "seq": 722,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "镜音铃的祝福之花",
+    "pronunciation": "りんのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝铃生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_22",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop122",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 89,
+    "seq": 723,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "镜音连的祝福之花",
+    "pronunciation": "れんのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝连生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_23",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop123",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 90,
+    "seq": 724,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "巡音流歌的祝福之花",
+    "pronunciation": "るかのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝流歌生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_24",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop124",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 91,
+    "seq": 725,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "MEIKO的祝福之花",
+    "pronunciation": "めいこのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝MEIKO生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_25",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop125",
+    "mysekaiSiteIds": []
+  },
+  {
+    "id": 92,
+    "seq": 726,
+    "mysekaiMaterialType": "birthday_party",
+    "name": "KAITO的祝福之花",
+    "pronunciation": "かいとのせれぶれーしょんふらわー",
+    "description": "用于制作庆祝KAITO生日的家具的材料。\n*仅限2027年生日活动使用。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_birthday_flower_26",
+    "modelAssetbundleName": "mdl_site_birthday_flowerdrop126",
     "mysekaiSiteIds": []
   },
   {
@@ -843,6 +987,24 @@
     "iconAssetbundleName": "item_junk_14",
     "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
     "mysekaiPhenomenaGroupId": 14,
+    "mysekaiSiteIds": [
+      5,
+      7,
+      6,
+      8
+    ]
+  },
+  {
+    "id": 94,
+    "seq": 508,
+    "mysekaiMaterialType": "junk",
+    "name": "太空零件",
+    "pronunciation": "すぺーすこんぽーねんと",
+    "description": "在宇宙中飘浮的某种零件。\n会在宇宙的日子出现在地面上。",
+    "mysekaiMaterialRarityType": "rarity_2",
+    "iconAssetbundleName": "item_junk_15",
+    "modelAssetbundleName": "mdl_site_glassball_common_glassballdrop02",
+    "mysekaiPhenomenaGroupId": 13,
     "mysekaiSiteIds": [
       5,
       7,

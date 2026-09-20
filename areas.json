@@ -321,7 +321,7 @@
     "additionalAreaType": "out_of_ring",
     "name": "窗扉打开的「世界」",
     "startAt": 1761321600000,
-    "endAt": 1789869600000,
+    "endAt": 1789862400000,
     "releaseConditionId": 2000000
   },
   {
@@ -351,5 +351,20 @@
     "startAt": 1790596800000,
     "releaseConditionId": 117902,
     "releaseConditionId2": 117903
+  },
+  {
+    "id": 28,
+    "assetbundleName": "area28",
+    "groupId": 310,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "april_fool",
+    "name": "ふしぎな村のセカイ？",
+    "subName": "村",
+    "startAt": 1806508800000,
+    "endAt": 1806595199000,
+    "releaseConditionId": 1
   }
 ]

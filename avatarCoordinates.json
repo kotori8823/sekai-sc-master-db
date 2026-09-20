@@ -999,6 +999,24 @@
     "accessoryAssetbundleName": "fullset_0113"
   },
   {
+    "id": 114,
+    "seq": 1350,
+    "name": "午の着ぐるみ",
+    "assetbundleName": "fullset_0114",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0114",
+    "accessoryAssetbundleName": "fullset_0114"
+  },
+  {
+    "id": 115,
+    "seq": 1360,
+    "name": "Voidollなりきり衣装",
+    "assetbundleName": "fullset_0115",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0115",
+    "accessoryAssetbundleName": "fullset_0115"
+  },
+  {
     "id": 116,
     "seq": 1370,
     "name": "变身为Deemo的服装",

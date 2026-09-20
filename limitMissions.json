@@ -708,5 +708,245 @@
     "sentence": "完成所有的初音未来纪念日限时任务。",
     "resourceBoxId": 400084,
     "selectableRewardGroupId": 1002
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1000,
+    "seq": 1,
+    "limitMissionType": "clear_live_join_member_kaito",
+    "requirement": 15,
+    "sentence": "将KAITO加入编组，累计完成15次演出。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1001,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "累计消耗100演出能量。（在我的「世界」中直接消耗的演出能量也被计算在内。）",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1002,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1003,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_kaito",
+    "requirement": 3,
+    "sentence": "选择演唱者含KAITO的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1004,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200000活动积分。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1000,
+    "id": 1005,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的KAITO纪念日限时任务。",
+    "resourceBoxId": 600000,
+    "selectableRewardGroupId": 1000
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1006,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 100319,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1007,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1008,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100309,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1009,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1010,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1001,
+    "id": 1011,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400081,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1012,
+    "seq": 1,
+    "limitMissionType": "clear_live_join_member_meiko",
+    "requirement": 15,
+    "sentence": "将MEIKO加入编组，累计完成15次演出。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1013,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "累计消耗100演出能量。（我的「世界」中消耗的也计算在内。）",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1014,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1015,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_meiko",
+    "requirement": 3,
+    "sentence": "选择演唱者含MEIKO的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1016,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1002,
+    "id": 1017,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "完成所有的MEIKO纪念日限时任务。",
+    "resourceBoxId": 600001,
+    "selectableRewardGroupId": 1001
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1018,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live",
+    "requirement": 5,
+    "sentence": "通過5次「挑戰LIVE」吧。",
+    "resourceBoxId": 100319,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1019,
+    "seq": 1,
+    "limitMissionType": "clear_multi_live",
+    "requirement": 10,
+    "sentence": "通過10次「多人LIVE」吧。",
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1020,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活動交換所中進行3次交換吧。",
+    "resourceBoxId": 100309,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1021,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 30,
+    "sentence": "累計消耗30LIVE BONUS吧。（可以從[LIVE]->[設定]的圖示中變更LIVE BONUS的消費量）",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1022,
+    "seq": 1,
+    "limitMissionType": "master_rank",
+    "requirement": 1,
+    "sentence": "提升1次成員的專精等級吧。",
+    "resourceBoxId": 100321,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 1003,
+    "id": 1023,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 5,
+    "sentence": "通過以上所有任務吧。",
+    "resourceBoxId": 400081,
+    "selectableRewardGroupId": 0
   }
 ]

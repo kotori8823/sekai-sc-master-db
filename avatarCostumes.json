@@ -868,5 +868,23 @@
     "seq": 253,
     "name": "“Dreamscape”特别演唱会T恤",
     "assetbundleName": "avatar_costume_0153"
+  },
+  {
+    "id": 254,
+    "seq": 254,
+    "name": "“ONE！MORE！HAPPY TIME”演唱会T恤（白）",
+    "assetbundleName": "avatar_costume_0154"
+  },
+  {
+    "id": 255,
+    "seq": 255,
+    "name": "“ONE！MORE！HAPPY TIME”演唱会T恤（黑）",
+    "assetbundleName": "avatar_costume_0155"
+  },
+  {
+    "id": 256,
+    "seq": 256,
+    "name": "“ONE！MORE！HAPPY TIME”特别演唱会T恤",
+    "assetbundleName": "avatar_costume_0156"
   }
 ]
