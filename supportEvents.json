@@ -2512,13 +2512,13 @@
       {
         "id": 257,
         "unit": "piapro",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 258,
         "unit": "piapro",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
@@ -2554,13 +2554,13 @@
       {
         "id": 264,
         "unit": "theme_park",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 265,
         "unit": "theme_park",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
@@ -2596,13 +2596,13 @@
       {
         "id": 271,
         "unit": "idol",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 272,
         "unit": "idol",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
@@ -2638,13 +2638,13 @@
       {
         "id": 278,
         "unit": "street",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 279,
         "unit": "street",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
@@ -2680,13 +2680,13 @@
       {
         "id": 285,
         "unit": "light_sound",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 286,
         "unit": "light_sound",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
@@ -2722,13 +2722,13 @@
       {
         "id": 292,
         "unit": "school_refusal",
-        "unitScore": 8000000,
+        "unitScore": 6000000,
         "resourceBoxId": 104
       },
       {
         "id": 293,
         "unit": "school_refusal",
-        "unitScore": 6000000,
+        "unitScore": 8000000,
         "resourceBoxId": 105
       },
       {
