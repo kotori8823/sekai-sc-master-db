@@ -493,5 +493,77 @@
     "convertMinutes": 12,
     "refreshCycle": "none",
     "onceConvertLimit": 100
+  },
+  {
+    "id": 45,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10024,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10024,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
+  },
+  {
+    "id": 46,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10025,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10025,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
+  },
+  {
+    "id": 47,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10025,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10026,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
+  },
+  {
+    "id": 48,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10025,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10027,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
+  },
+  {
+    "id": 49,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10025,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10028,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
+  },
+  {
+    "id": 50,
+    "mysekaiConvertItemTabId": 1,
+    "consumeResourceBoxId": 10025,
+    "mysekaiConvertItemObtainType": "resource_box",
+    "externalId": 10029,
+    "requiredConvertFixtureLevel": 1,
+    "convertMinutes": 1320,
+    "refreshCycle": "none",
+    "startAt": 1790654400000,
+    "onceConvertLimit": 10
   }
 ]
