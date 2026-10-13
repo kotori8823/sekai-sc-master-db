@@ -705016,6 +705016,22 @@
     "resourceType": "gacha_ticket"
   },
   {
+    "resourceBoxId": 50028,
+    "resourceQuantity": 1000,
+    "resourceId": null,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "jewel"
+  },
+  {
+    "resourceBoxId": 50028,
+    "resourceQuantity": 30,
+    "resourceId": 28,
+    "resourceBoxPurpose": "gift_detail",
+    "resourceLevel": null,
+    "resourceType": "gacha_ticket"
+  },
+  {
     "resourceBoxId": 9999999,
     "resourceQuantity": 1,
     "resourceId": 1,
@@ -1001795,6 +1001811,38 @@
     "resourceBoxId": 100109,
     "resourceQuantity": 1,
     "resourceId": 10089,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100110,
+    "resourceQuantity": 1,
+    "resourceId": 10092,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100111,
+    "resourceQuantity": 1,
+    "resourceId": 10093,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100112,
+    "resourceQuantity": 1,
+    "resourceId": 10094,
+    "resourceBoxPurpose": "shop_item",
+    "resourceLevel": null,
+    "resourceType": "stamp"
+  },
+  {
+    "resourceBoxId": 100113,
+    "resourceQuantity": 1,
+    "resourceId": 10095,
     "resourceBoxPurpose": "shop_item",
     "resourceLevel": null,
     "resourceType": "stamp"

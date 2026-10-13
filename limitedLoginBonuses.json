@@ -1032,6 +1032,20 @@
     ]
   },
   {
+    "id": 209,
+    "startAt": 1792857600000,
+    "endAt": 1793807999000,
+    "assetbundleName": "compass_collabo_2026",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 368,
+        "limitedLoginBonusId": 209,
+        "day": 1,
+        "resourceBoxId": 224
+      }
+    ]
+  },
+  {
     "id": 220,
     "startAt": 1787889600000,
     "endAt": 1788105599000,
