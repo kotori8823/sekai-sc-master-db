@@ -710,6 +710,166 @@
     "selectableRewardGroupId": 1002
   },
   {
+    "limitMissionGroupId": 32,
+    "id": 196,
+    "seq": 1,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "sentence": "登录1次游戏。",
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 197,
+    "seq": 1,
+    "limitMissionType": "clear_live_join_member_meiko",
+    "requirement": 15,
+    "sentence": "将MEIKO加入编组，累计完成15次演出。",
+    "resourceBoxId": 100320,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 198,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 100,
+    "sentence": "累计消耗100演出能量。（我的「世界」中消耗的也计算在内。）",
+    "resourceBoxId": 100307,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 199,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 200,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_meiko",
+    "requirement": 3,
+    "sentence": "选择演唱者含MEIKO的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 201,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 32,
+    "id": 202,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 6,
+    "sentence": "完成所有的MEIKO纪念日限时任务。",
+    "resourceBoxId": 400088,
+    "selectableRewardGroupId": 1003
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 203,
+    "seq": 1,
+    "limitMissionType": "login",
+    "requirement": 1,
+    "sentence": "登录1次游戏。",
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 204,
+    "seq": 1,
+    "limitMissionType": "clear_live_kagamine_leader",
+    "requirement": 15,
+    "sentence": "将镜音铃和镜音连加入编组，累计完成15次演出。",
+    "resourceBoxId": 14,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 205,
+    "seq": 1,
+    "limitMissionType": "clear_virtual_live",
+    "requirement": 1,
+    "sentence": "观看1次虚拟演唱会。",
+    "resourceBoxId": 100034,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 206,
+    "seq": 1,
+    "limitMissionType": "master_piece_exchange",
+    "requirement": 3,
+    "sentence": "在心愿碎片兑换所中进行3次交换。",
+    "resourceBoxId": 400095,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 207,
+    "seq": 1,
+    "limitMissionType": "buy_event_item",
+    "requirement": 3,
+    "sentence": "在活动兑换所中进行3次交换。",
+    "resourceBoxId": 400082,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 208,
+    "seq": 1,
+    "limitMissionType": "clear_solo_challenge_live_vocal_kagamine",
+    "requirement": 3,
+    "sentence": "选择演唱者含镜音铃或镜音连的歌曲进行3次挑战演出吧。",
+    "resourceBoxId": 400083,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 209,
+    "seq": 1,
+    "limitMissionType": "collect_event_point",
+    "requirement": 200000,
+    "sentence": "累计获得200,000活动积分。",
+    "resourceBoxId": 400084,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 210,
+    "seq": 1,
+    "limitMissionType": "clear_live_boost",
+    "requirement": 200,
+    "sentence": "累计消耗200演出能量。（我的「世界」中消耗的也计算在内。）  ",
+    "resourceBoxId": 400096,
+    "selectableRewardGroupId": 0
+  },
+  {
+    "limitMissionGroupId": 33,
+    "id": 211,
+    "seq": 1,
+    "limitMissionType": "clear_all_limit_mission",
+    "requirement": 8,
+    "sentence": "完成以下所有的纪念日限时任务。",
+    "resourceBoxId": 400097,
+    "selectableRewardGroupId": 1004
+  },
+  {
     "limitMissionGroupId": 1000,
     "id": 1000,
     "seq": 1,

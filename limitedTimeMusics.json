@@ -27,18 +27,21 @@
     "id": 5,
     "musicId": 707,
     "startAt": 1803193200000,
-    "endAt": 1808323199000
+    "endAt": 1808323199000,
+    "collaborationModeId": 1
   },
   {
     "id": 6,
     "musicId": 708,
     "startAt": 1803366000000,
-    "endAt": 1808323199000
+    "endAt": 1808323199000,
+    "collaborationModeId": 1
   },
   {
     "id": 7,
     "musicId": 709,
     "startAt": 1803279600000,
-    "endAt": 1808323199000
+    "endAt": 1808323199000,
+    "collaborationModeId": 1
   }
 ]

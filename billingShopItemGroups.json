@@ -336,6 +336,48 @@
     ]
   },
   {
+    "id": 54,
+    "name": "[七彩庆典风] 玩偶（第1弹）的设计图",
+    "assetbundleName": "shop_400010",
+    "seq": 400010,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 2,
+    "billingShopItemIds": [
+      400010,
+      400011,
+      400012,
+      400013
+    ]
+  },
+  {
+    "id": 56,
+    "name": "[七彩庆典风] 玩偶（第2弹）的设计图",
+    "assetbundleName": "shop_400020",
+    "seq": 400020,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 3,
+    "billingShopItemIds": [
+      400020,
+      400021,
+      400022,
+      400023
+    ]
+  },
+  {
+    "id": 58,
+    "name": "[七彩庆典风] 玩偶（第3弹）的设计图",
+    "assetbundleName": "shop_400030",
+    "seq": 400030,
+    "billingShopItemType": "mysekai_blueprint",
+    "mysekaiLiveMissionRewardGameCharacterGroupId": 4,
+    "billingShopItemIds": [
+      400030,
+      400031,
+      400032,
+      400033
+    ]
+  },
+  {
     "id": 410001,
     "name": "“林间梦”服装",
     "assetbundleName": "shop_410001",

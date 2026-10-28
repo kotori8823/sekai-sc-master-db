@@ -670,5 +670,23 @@
     "seq": 10020,
     "name": "初音未来纪念日蛋糕头套",
     "assetbundleName": "accessory_1002"
+  },
+  {
+    "id": 1004,
+    "seq": 10040,
+    "name": "镜音连纪念日蛋糕头套",
+    "assetbundleName": "accessory_1004"
+  },
+  {
+    "id": 1005,
+    "seq": 10050,
+    "name": "巡音流歌纪念日蛋糕头套",
+    "assetbundleName": "accessory_1006"
+  },
+  {
+    "id": 1006,
+    "seq": 10060,
+    "name": "MEIKO纪念日蛋糕头套",
+    "assetbundleName": "accessory_1005"
   }
 ]

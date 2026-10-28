@@ -28,6 +28,13 @@
     "name": "生日礼包"
   },
   {
+    "id": 2600,
+    "seq": 2600,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "mysekai_blueprint",
+    "name": "玩偶"
+  },
+  {
     "id": 2800,
     "seq": 2800,
     "billingShopTabParentId": 2,

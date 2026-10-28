@@ -53226,7 +53226,7 @@
     "ExchangeCategory": "home_exchange",
     "materialExchangeType": "normal",
     "materialExchangeDisplayResourceGroupId": 13,
-    "Name": "神授之社",
+    "Name": "祈愿之所",
     "assetbundleName": "icon_divineShrine",
     "StartAt": 1799640000000,
     "EndAt": 1801367999000,
@@ -67151,7 +67151,7 @@
     "materialExchangeType": "normal",
     "Name": "特殊道具",
     "assetbundleName": "icon_heartPiece",
-    "StartAt": 1791129600000,
+    "StartAt": 1789869600000,
     "MaterialExchanges": [
       {
         "id": 4001049,

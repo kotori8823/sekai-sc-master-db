@@ -139,7 +139,7 @@
   },
   {
     "id": 24,
-    "name": "偶像梦幻祭2联动招募专用券",
+    "name": "[Ensemble in SEKAI]联动招募专用票券",
     "assetbundleName": "collabo_gacha_ticket",
     "gachaDisplayType": "always"
   },
@@ -280,5 +280,11 @@
     "name": "「拓麻歌子」联动限定招募券",
     "assetbundleName": "collabo_gacha_ticket",
     "gachaDisplayType": "always"
+  },
+  {
+    "id": 1013,
+    "name": "[Trick or treat]★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   }
 ]

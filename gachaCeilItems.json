@@ -1872,6 +1872,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 390,
+    "gachaId": 655,
+    "name": "[复刻]新春·盛放的魅力之花 招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1797825599000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 397,
     "gachaId": 662,
     "name": "Doll dream招募贴纸",
@@ -1973,6 +1981,14 @@
     "name": "Let's play with cats招募贴纸",
     "assetbundleName": "ceil_item",
     "convertStartAt": 1776571199000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 412,
+    "gachaId": 698,
+    "name": "[复刻]奏响心愿的行进乐队巡游招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1799035199000,
     "convertResourceBoxId": 2
   },
   {
@@ -2480,22 +2496,6 @@
     "convertResourceBoxId": 2
   },
   {
-    "id": 485,
-    "gachaId": 859,
-    "name": "[复刻]在音乐响起的街角 招募贴纸",
-    "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1797825600000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 486,
-    "gachaId": 860,
-    "name": "[复刻]Eternal Bout招募贴纸",
-    "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1797825600000,
-    "convertResourceBoxId": 2
-  },
-  {
     "id": 487,
     "gachaId": 861,
     "name": "Good to go！招募贴纸",
@@ -2524,14 +2524,6 @@
     "gachaId": 868,
     "name": "Human×Tech招募贴纸",
     "assetbundleName": "ceil_item",
-    "convertStartAt": 1800417600000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 493,
-    "gachaId": 870,
-    "name": "[复刻]Play with dogs招募贴纸",
-    "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1800417600000,
     "convertResourceBoxId": 2
   },
@@ -2754,9 +2746,9 @@
   {
     "id": 528,
     "gachaId": 936,
-    "name": "[復刻]交错「世界」的梦幻祭 招募贴纸",
+    "name": "[复刻]交错「世界」的梦幻祭 招募贴纸",
     "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1811390400000,
+    "convertStartAt": 1797868799000,
     "convertResourceBoxId": 2
   },
   {

@@ -28,5 +28,113 @@
     "randomBoxGroupId": 1,
     "resourceBoxId": 5,
     "rate": 2.0
+  },
+  {
+    "id": 6,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 10,
+    "rate": 0.009999999776482582
+  },
+  {
+    "id": 7,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 11,
+    "rate": 0.10000000149011612
+  },
+  {
+    "id": 8,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 12,
+    "rate": 4.889999866485596
+  },
+  {
+    "id": 9,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 13,
+    "rate": 40.0
+  },
+  {
+    "id": 10,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 14,
+    "rate": 30.0
+  },
+  {
+    "id": 11,
+    "randomBoxGroupId": 2,
+    "resourceBoxId": 15,
+    "rate": 25.0
+  },
+  {
+    "id": 12,
+    "randomBoxGroupId": 3,
+    "resourceBoxId": 10,
+    "rate": 0.10000000149011612
+  },
+  {
+    "id": 13,
+    "randomBoxGroupId": 3,
+    "resourceBoxId": 11,
+    "rate": 0.5
+  },
+  {
+    "id": 14,
+    "randomBoxGroupId": 3,
+    "resourceBoxId": 16,
+    "rate": 4.0
+  },
+  {
+    "id": 15,
+    "randomBoxGroupId": 3,
+    "resourceBoxId": 12,
+    "rate": 40.099998474121094
+  },
+  {
+    "id": 16,
+    "randomBoxGroupId": 3,
+    "resourceBoxId": 17,
+    "rate": 55.29999923706055
+  },
+  {
+    "id": 17,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 18,
+    "rate": 0.5
+  },
+  {
+    "id": 18,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 19,
+    "rate": 0.5
+  },
+  {
+    "id": 19,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 20,
+    "rate": 2.5
+  },
+  {
+    "id": 20,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 11,
+    "rate": 5.0
+  },
+  {
+    "id": 21,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 16,
+    "rate": 9.5
+  },
+  {
+    "id": 22,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 21,
+    "rate": 35.0
+  },
+  {
+    "id": 23,
+    "randomBoxGroupId": 4,
+    "resourceBoxId": 17,
+    "rate": 47.0
   }
 ]
