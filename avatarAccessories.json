@@ -672,16 +672,16 @@
     "assetbundleName": "accessory_1002"
   },
   {
+    "id": 1003,
+    "seq": 10030,
+    "name": "镜音铃纪念日蛋糕头套",
+    "assetbundleName": "accessory_1003"
+  },
+  {
     "id": 1004,
     "seq": 10040,
     "name": "镜音连纪念日蛋糕头套",
     "assetbundleName": "accessory_1004"
-  },
-  {
-    "id": 1005,
-    "seq": 10050,
-    "name": "巡音流歌纪念日蛋糕头套",
-    "assetbundleName": "accessory_1006"
   },
   {
     "id": 1006,

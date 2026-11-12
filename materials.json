@@ -2356,6 +2356,14 @@
     "materialType": "common"
   },
   {
+    "id": 3010,
+    "seq": 1012,
+    "name": "枫叶币",
+    "flavorText": "可用于兑换神秘礼物",
+    "canUse": false,
+    "materialType": "common"
+  },
+  {
     "id": 4002,
     "seq": 91,
     "name": "「摩尔加纳的雕像」设计图的兑换券。",

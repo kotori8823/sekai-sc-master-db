@@ -3322,28 +3322,6 @@
     "assetbundleName": "vl_archive_thumbnail_30018"
   },
   {
-    "id": 30019,
-    "seq": 30019,
-    "name": "1周年纪念",
-    "resourceBoxId": 30019,
-    "paidVirtualLiveShopItemPurchaseType": "single",
-    "paidVirtualLiveShopCosts": [
-      {
-        "id": 300191,
-        "costResourceType": "jewel",
-        "costResourceQuantity": 1000,
-        "startAt": 1556683200000
-      },
-      {
-        "id": 300192,
-        "costResourceType": "paid_jewel",
-        "costResourceQuantity": 1000,
-        "startAt": 1556683200000
-      }
-    ],
-    "assetbundleName": "vl_archive_thumbnail_30019"
-  },
-  {
     "id": 30020,
     "seq": 30020,
     "name": "万圣节 2022",

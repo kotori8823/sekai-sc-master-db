@@ -3441,7 +3441,7 @@
   },
   {
     "id": 541,
-    "name": "HAPPY BIRTHDAY 咲希 2026",
+    "name": "HAPPY BIRTHDAY 穗波 2026",
     "pronunciation": "はっぴーばーすでーほなみ2025.10.27",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_03",
@@ -3449,7 +3449,7 @@
   },
   {
     "id": 542,
-    "name": "HAPPY BIRTHDAY 穗波 2027",
+    "name": "HAPPY BIRTHDAY 志步 2027",
     "pronunciation": "はっぴーばーすでーしほ2026.1.8",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_04",
@@ -3457,7 +3457,7 @@
   },
   {
     "id": 543,
-    "name": "HAPPY BIRTHDAY 志步 2027",
+    "name": "HAPPY BIRTHDAY 实乃理 2027",
     "pronunciation": "はっぴーばーすでーみのり2026.4.14",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_05",
@@ -3465,7 +3465,7 @@
   },
   {
     "id": 544,
-    "name": "HAPPY BIRTHDAY 实乃理 2026",
+    "name": "HAPPY BIRTHDAY 遥 2026",
     "pronunciation": "はっぴーばーすでーはるか2025.10.5",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_06",
@@ -3473,7 +3473,7 @@
   },
   {
     "id": 545,
-    "name": "HAPPY BIRTHDAY 遥 2027",
+    "name": "HAPPY BIRTHDAY 爱莉 2027",
     "pronunciation": "はっぴーばーすでーあいり2026.3.19",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_07",
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 546,
-    "name": "HAPPY BIRTHDAY 爱莉 2026",
+    "name": "HAPPY BIRTHDAY 雫 2026",
     "pronunciation": "はっぴーばーすでーしずく2025.12.6",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_08",
@@ -3489,7 +3489,7 @@
   },
   {
     "id": 547,
-    "name": "HAPPY BIRTHDAY 雫 2027",
+    "name": "HAPPY BIRTHDAY 心羽 2027",
     "pronunciation": "はっぴーばーすでーこはね2026.3.2",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_09",
@@ -3497,7 +3497,7 @@
   },
   {
     "id": 549,
-    "name": "HAPPY BIRTHDAY 杏 2026",
+    "name": "HAPPY BIRTHDAY 彰人 2026",
     "pronunciation": "はっぴーばーすでーあきと2025.11.12",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_11",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 555,
-    "name": "HAPPY BIRTHDAY 类 2027",
+    "name": "HAPPY BIRTHDAY 奏 2027",
     "pronunciation": "はっぴーばーすでーかなで2026.2.10",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_17",
@@ -3513,7 +3513,7 @@
   },
   {
     "id": 556,
-    "name": "HAPPY BIRTHDAY 奏 2027",
+    "name": "HAPPY BIRTHDAY 真冬 2027",
     "pronunciation": "はっぴーばーすでーまふゆ2026.1.27",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_18",
@@ -3521,7 +3521,7 @@
   },
   {
     "id": 560,
-    "name": "HAPPY BIRTHDAY 未来 2026",
+    "name": "HAPPY ANNIVERSARY 铃 2026",
     "pronunciation": "はっぴーあにばーさりーりん2025.12.27",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_22",
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 561,
-    "name": "HAPPY BIRTHDAY 铃 2026",
+    "name": "HAPPY ANNIVERSARY 连 2026",
     "pronunciation": "はっぴーあにばーさりーれん2025.12.27",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_23",
@@ -3537,7 +3537,7 @@
   },
   {
     "id": 562,
-    "name": "HAPPY BIRTHDAY 连 2027",
+    "name": "HAPPY ANNIVERSARY 流歌 2027",
     "pronunciation": "はっぴーあにばーさりーるか2026.1.30",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_24",
@@ -3545,7 +3545,7 @@
   },
   {
     "id": 563,
-    "name": "HAPPY BIRTHDAY 流歌 2026",
+    "name": "HAPPY ANNIVERSARY MEIKO 2026",
     "pronunciation": "はっぴーあにばーさりーめいこ2025.11.5",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_25",
@@ -3553,7 +3553,7 @@
   },
   {
     "id": 564,
-    "name": "HAPPY BIRTHDAY MEIKO 2027",
+    "name": "HAPPY ANNIVERSARY KAITO 2027",
     "pronunciation": "はっぴーあにばーさりーかいと2026.2.17",
     "honorType": "birthday",
     "backgroundAssetbundleName": "honor_bg_birthday_01_26",
@@ -4676,6 +4676,13 @@
     "pronunciation": "共鸣之音",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_total_recharge_202604"
+  },
+  {
+    "id": 30055,
+    "name": "烧烤ing",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_shaokao"
   },
   {
     "id": 100016,

@@ -1812,18 +1812,6 @@
     "isTheater": true
   },
   {
-    "id": 3019,
-    "virtualLiveId": 97,
-    "virtualLivePart": 0,
-    "paidVirtualLiveType": "season",
-    "units": [
-      "none"
-    ],
-    "iconAssetbundleName": "vl_archive_icon_3019",
-    "backgroundAssetbundleName": "vl_archive_bg_12",
-    "isTheater": true
-  },
-  {
     "id": 3020,
     "virtualLiveId": 103,
     "virtualLivePart": 0,

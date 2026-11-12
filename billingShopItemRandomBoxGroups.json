@@ -136,5 +136,95 @@
     "randomBoxGroupId": 4,
     "resourceBoxId": 17,
     "rate": 47.0
+  },
+  {
+    "id": 24,
+    "randomBoxGroupId": 5,
+    "resourceBoxId": 22,
+    "rate": 20.0
+  },
+  {
+    "id": 25,
+    "randomBoxGroupId": 5,
+    "resourceBoxId": 23,
+    "rate": 20.0
+  },
+  {
+    "id": 26,
+    "randomBoxGroupId": 5,
+    "resourceBoxId": 24,
+    "rate": 20.0
+  },
+  {
+    "id": 27,
+    "randomBoxGroupId": 5,
+    "resourceBoxId": 25,
+    "rate": 20.0
+  },
+  {
+    "id": 28,
+    "randomBoxGroupId": 5,
+    "resourceBoxId": 26,
+    "rate": 20.0
+  },
+  {
+    "id": 29,
+    "randomBoxGroupId": 6,
+    "resourceBoxId": 4,
+    "rate": 10.0
+  },
+  {
+    "id": 30,
+    "randomBoxGroupId": 6,
+    "resourceBoxId": 27,
+    "rate": 20.0
+  },
+  {
+    "id": 31,
+    "randomBoxGroupId": 6,
+    "resourceBoxId": 28,
+    "rate": 20.0
+  },
+  {
+    "id": 32,
+    "randomBoxGroupId": 6,
+    "resourceBoxId": 29,
+    "rate": 20.0
+  },
+  {
+    "id": 33,
+    "randomBoxGroupId": 6,
+    "resourceBoxId": 30,
+    "rate": 30.0
+  },
+  {
+    "id": 34,
+    "randomBoxGroupId": 7,
+    "resourceBoxId": 31,
+    "rate": 1.0
+  },
+  {
+    "id": 35,
+    "randomBoxGroupId": 7,
+    "resourceBoxId": 32,
+    "rate": 9.0
+  },
+  {
+    "id": 36,
+    "randomBoxGroupId": 7,
+    "resourceBoxId": 33,
+    "rate": 20.0
+  },
+  {
+    "id": 37,
+    "randomBoxGroupId": 7,
+    "resourceBoxId": 34,
+    "rate": 30.0
+  },
+  {
+    "id": 38,
+    "randomBoxGroupId": 7,
+    "resourceBoxId": 35,
+    "rate": 40.0
   }
 ]

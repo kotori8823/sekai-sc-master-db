@@ -3862,6 +3862,56 @@
     ]
   },
   {
+    "id": 1187,
+    "startAt": 1795147200000,
+    "endAt": 1796572799000,
+    "assetbundleName": "login_ganen",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1462,
+        "limitedLoginBonusId": 1187,
+        "day": 1,
+        "resourceBoxId": 2174
+      },
+      {
+        "id": 1463,
+        "limitedLoginBonusId": 1187,
+        "day": 2,
+        "resourceBoxId": 2175
+      },
+      {
+        "id": 1464,
+        "limitedLoginBonusId": 1187,
+        "day": 3,
+        "resourceBoxId": 2176
+      },
+      {
+        "id": 1465,
+        "limitedLoginBonusId": 1187,
+        "day": 4,
+        "resourceBoxId": 2177
+      },
+      {
+        "id": 1466,
+        "limitedLoginBonusId": 1187,
+        "day": 5,
+        "resourceBoxId": 2178
+      },
+      {
+        "id": 1467,
+        "limitedLoginBonusId": 1187,
+        "day": 6,
+        "resourceBoxId": 2179
+      },
+      {
+        "id": 1468,
+        "limitedLoginBonusId": 1187,
+        "day": 7,
+        "resourceBoxId": 2180
+      }
+    ]
+  },
+  {
     "id": 26001,
     "startAt": 1786377600000,
     "endAt": 1786463999000,

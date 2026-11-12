@@ -137,5 +137,15 @@
     "iconAssetbundleName": "limitmission_twins",
     "barIcon": "LimitMissionTwins",
     "distributionEndAt": 1799024399000
+  },
+  {
+    "id": 34,
+    "seq": 16,
+    "name": "感恩节限时任务",
+    "keyMissionId": 217,
+    "startAt": 1795665600000,
+    "endAt": 1796486399000,
+    "assetbundleName": "mission_ganen",
+    "distributionEndAt": 1796529599000
   }
 ]
