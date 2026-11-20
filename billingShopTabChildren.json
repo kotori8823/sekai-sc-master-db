@@ -7,6 +7,13 @@
     "name": "购买水晶"
   },
   {
+    "id": 1900,
+    "seq": 1900,
+    "billingShopTabParentId": 2,
+    "billingShopItemType": "value_set",
+    "name": "感恩特惠"
+  },
+  {
     "id": 2000,
     "seq": 2000,
     "billingShopTabParentId": 2,

@@ -2512,46 +2512,6 @@
     "convertResourceBoxId": 2
   },
   {
-    "id": 490,
-    "gachaId": 866,
-    "name": "[日野森雫]HAPPY BIRTHDAY招募贴纸",
-    "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1799305200000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 491,
-    "gachaId": 868,
-    "name": "Human×Tech招募贴纸",
-    "assetbundleName": "ceil_item",
-    "convertStartAt": 1800417600000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 494,
-    "gachaId": 872,
-    "name": "The Light We Found招募贴纸",
-    "assetbundleName": "ceil_item",
-    "convertStartAt": 1801281600000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 495,
-    "gachaId": 873,
-    "name": "[镜音铃]HAPPY ANNIVERSARY招募贴纸",
-    "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1801119600000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 496,
-    "gachaId": 875,
-    "name": "[镜音连]HAPPY ANNIVERSARY招募贴纸",
-    "assetbundleName": "ceil_item_birthday",
-    "convertStartAt": 1801119600000,
-    "convertResourceBoxId": 2
-  },
-  {
     "id": 498,
     "gachaId": 884,
     "name": "[日野森志步]HAPPY BIRTHDAY招募贴纸",
