@@ -1328,6 +1328,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 293,
+    "gachaId": 478,
+    "name": "[复刻]彷徨的隐士之路招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1801454399000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 297,
     "gachaId": 482,
     "name": "Roots in the snow招募贴纸",
@@ -1877,6 +1885,14 @@
     "name": "[复刻]新春·盛放的魅力之花 招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1797825599000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 391,
+    "gachaId": 656,
+    "name": "[复刻]妖物横行的京都招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1800244799000,
     "convertResourceBoxId": 2
   },
   {
@@ -2509,6 +2525,46 @@
     "name": "想望的逐星之人 招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1799467200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 490,
+    "gachaId": 866,
+    "name": "[日野森雫]HAPPY BIRTHDAY招募贴纸",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1799305200000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 491,
+    "gachaId": 868,
+    "name": "Human×Tech招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1800417600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 494,
+    "gachaId": 872,
+    "name": "The Light We Found招募贴纸",
+    "assetbundleName": "ceil_item",
+    "convertStartAt": 1801281600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 495,
+    "gachaId": 873,
+    "name": "[镜音铃]HAPPY ANNIVERSARY招募贴纸",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1801119600000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 496,
+    "gachaId": 875,
+    "name": "[镜音连]HAPPY ANNIVERSARY招募贴纸",
+    "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1801119600000,
     "convertResourceBoxId": 2
   },
   {
